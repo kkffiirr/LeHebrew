@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">עבור %d אירועים</item>
+        <item quantity="one">עבור אירוע %d</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">כל %d ימים</item>
+        <item quantity="one">כל יום %d</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">כל %d שבועות</item>
+        <item quantity="one">כל שבוע %d</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">כל %d חודשים</item>
+        <item quantity="one">כל חודש %d</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">כל %d שנים</item>
+        <item quantity="one">כל שנה %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d פעמים</item>
+        <item quantity="one">; פעם אחת</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">כל %d ימים</item>
+        <item quantity="one">יומי</item>
+        <item quantity="two">כל %d ימים</item>
+        <item quantity="few">כל %d ימים</item>
+        <item quantity="many">כל %d ימים</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">כל %d ימים</item>
+        <item quantity="one">יומי</item>
+        <item quantity="two">כל %d ימים</item>
+        <item quantity="few">כל %d ימים</item>
+        <item quantity="many">כל %d ימים</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">כל %1$d שבועות, ביום %2$s</item>
+        <item quantity="one">שבועי ביום %2$s</item>
+        <item quantity="two">כל %1$d שבועות ביום %2$s</item>
+        <item quantity="few">כל %1$d שבועות ביום %2$s</item>
+        <item quantity="many">כל %1$d שבועות ביום %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">כל %1$d שבועות ביום %2$s</item>
+        <item quantity="one">כל שבוע ביום %2$s</item>
+        <item quantity="two">כל %1$d שבועות ביום %2$s</item>
+        <item quantity="few">כל %1$d שבועות ביום %2$s</item>
+        <item quantity="many">כל %1$d שבועות ביום %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">כל %1$d חודשים</item>
+        <item quantity="one">חודשי</item>
+        <item quantity="two">כל %1$d חודשים</item>
+        <item quantity="few">כל %1$d חודשים</item>
+        <item quantity="many">כל %1$d חודשים</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">כל %1$d חודשים</item>
+        <item quantity="one">חודשי</item>
+        <item quantity="two">כל %1$d חודשים</item>
+        <item quantity="few">כל %1$d חודשים</item>
+        <item quantity="many">כל %1$d חודשים</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">כל %1$d שנים</item>
+        <item quantity="one">שנתי</item>
+        <item quantity="two">כל %1$d שנים</item>
+        <item quantity="few">כל %1$d שנים</item>
+        <item quantity="many">כל %1$d שנים</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">כל %1$d שנים</item>
+        <item quantity="one">שנתי</item>
+        <item quantity="two">כל %1$d שנים</item>
+        <item quantity="few">כל %1$d שנים</item>
+        <item quantity="many">כל %1$d שנים</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">‏%1$d נבחרו</item>
+        <item quantity="zero">‏%1$d נבחרו</item>
+        <item quantity="one">‏%1$d נבחרו</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d שעות</item>
+        <item quantity="one">שעה %1$d</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d שעות</item>
+        <item quantity="one">שעה %1$d</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d דקות</item>
+        <item quantity="one">דקה %1$d</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d דקות</item>
+        <item quantity="one">דקה %1$d</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d ימים</item>
+        <item quantity="one">יום %1$d</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d ימים</item>
+        <item quantity="one">יום %1$d</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d חודשים</item>
+        <item quantity="one">חודש %1$d</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d חודשים</item>
+        <item quantity="one">חודש %1$d</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d שנים</item>
+        <item quantity="one">שנה %1$d</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d שנים</item>
+        <item quantity="one">שנה %1$d</item>
+    </plurals>
+    <plurals name="items_from_without_colon">
+        <item quantity="other">%1$d פריטים מ</item>
+        <item quantity="one">פריט %1$d מ</item>
+    </plurals>
+    <plurals name="last_bus_home_departure_time">
+        <item quantity="other">האוטובוס האחרון הביתה בעוד %2$s%1$d דקות%3$s</item>
+        <item quantity="one">האוטובוס האחרון הביתה בעוד %2$sדקה %1$d%3$s</item>
+    </plurals>
+    <plurals name="last_bus_to_hotel_departure_time">
+        <item quantity="other">האוטובוס האחרון למלון בעוד %2$s%1$d דקות%3$s</item>
+        <item quantity="one">האוטובוס האחרון למלון בעוד %2$sדקה %1$d%3$s</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time">
+        <item quantity="other">הרכבת האחרונה הביתה יוצאת בעוד %2$s%1$d דקות%3$s</item>
+        <item quantity="one">הרכבת האחרונה הביתה יוצאת בעוד %2$s%1$d דקות%3$s</item>
+    </plurals>
+    <plurals name="last_train_to_hotel_departure_time">
+        <item quantity="other">הרכבת האחרונה למלון יוצאת בעוד %2$s%1$d דקות%3$s</item>
+        <item quantity="one">הרכבת האחרונה למלון יוצאת בעוד %2$s%1$d דקות%3$s</item>
+    </plurals>
+    <plurals name="last_transit_home_departure_time">
+        <item quantity="other">ההסעה האחרונה הביתה בעוד %2$s%1$d דקות%3$s</item>
+        <item quantity="one">ההסעה האחרונה הביתה בעוד %2$sדקה %1$d%3$s</item>
+    </plurals>
+    <plurals name="last_transit_to_hotel_departure_time">
+        <item quantity="other">ההסעה האחרונה למלון בעוד %2$s%1$d דקות%3$s</item>
+        <item quantity="one">ההסעה האחרונה למלון בעוד %2$sדקה %1$d%3$s</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext">
+        <item quantity="other">הליכה של %1$d דקות אל %2$s רציף %3$s</item>
+        <item quantity="one">הליכה של דקה %1$d אל %2$s רציף %3$s</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">הליכה של %1$d דקות אל %2$s</item>
+        <item quantity="one">הליכה של דקה %1$d אל %2$s</item>
+    </plurals>
+    <plurals name="minutes_delay">
+        <item quantity="other">‏עיכוב של %d דקות</item>
+        <item quantity="zero">אין עיכוב</item>
+        <item quantity="one">‏עיכוב של %d דקות</item>
+        <item quantity="two">‏עיכוב של %d דקות</item>
+        <item quantity="few">‏עיכוב של %d דקות</item>
+        <item quantity="many">‏עיכוב של %d דקות</item>
+    </plurals>
+    <plurals name="minutes_delay_more_than_usual">
+        <item quantity="other">‏%d דקות יותר מהרגיל</item>
+        <item quantity="zero">אין עיכוב</item>
+        <item quantity="one">‏דקה %d יותר מהרגיל</item>
+        <item quantity="two">‏%d דקות יותר מהרגיל</item>
+        <item quantity="few">‏%d דקות יותר מהרגיל</item>
+        <item quantity="many">‏%d דקות יותר מהרגיל</item>
+    </plurals>
+    <plurals name="minutes_delay_less_than_usual">
+        <item quantity="other">‏%d דקות פחות מהרגיל</item>
+        <item quantity="zero">אין עיכוב</item>
+        <item quantity="one">‏דקה %d פחות מהרגיל</item>
+        <item quantity="two">‏%d דקות פחות מהרגיל</item>
+        <item quantity="few">‏%d דקות פחות מהרגיל</item>
+        <item quantity="many">‏%d דקות פחות מהרגיל</item>
+    </plurals>
+    <plurals name="usual_traffic_minutes_delay">
+        <item quantity="other">‏עומס רגיל: עיכוב של %d דקות</item>
+        <item quantity="zero">עומס רגיל: אין עיכוב</item>
+        <item quantity="one">‏עומס רגיל: עיכוב של דקה %d</item>
+        <item quantity="two">‏עומס רגיל: עיכוב של %d דקות</item>
+        <item quantity="few">‏עומס רגיל: עיכוב של %d דקות</item>
+        <item quantity="many">‏עומס רגיל: עיכוב של %d דקות</item>
+    </plurals>
+    <plurals name="num_min_late">
+        <item quantity="other">באיחור של %d דקות</item>
+        <item quantity="one">באיחור של דקה</item>
+    </plurals>
+    <plurals name="num_min_early">
+        <item quantity="other">%d דקות לפני הזמן</item>
+        <item quantity="one">דקה לפני הזמן</item>
+    </plurals>
+    <plurals name="transit_interval_in_minutes">
+        <item quantity="other">· כל %1$s דקות</item>
+        <item quantity="one">· כל דקה %1$s</item>
+    </plurals>
+    <plurals name="transit_interval_in_hours">
+        <item quantity="other">· כל %1$d שעות</item>
+        <item quantity="one">· כל שעה %1$d</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">כל %1$s דקות</item>
+        <item quantity="one">כל דקה (%1$s)</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">כל %1$d שעות</item>
+        <item quantity="one">כל שעה (%1$d)</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">הארכה %1$d</item>
+        <item quantity="one">הארכה</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">הגעה %1$d דקות לפני הזמן</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_flight">
+        <item quantity="other">הגעה %1$d דקות לפני ההמראה</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_reservation">
+        <item quantity="other">הגעה %1$d דקות לפני שעת ההזמנה</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_movie">
+        <item quantity="other">הגעה %1$d דקות לפני הסרט</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_concert">
+        <item quantity="other">הגעה %1$d דקות לפני המופע</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">שלח אימייל לכולם (%1$d)</item>
+        <item quantity="one">שלח אימייל לכולם (%1$d)</item>
+    </plurals>
+    <plurals name="next_meeting_card_settings_summary">
+        <item quantity="other">%1$d יומנים</item>
+        <item quantity="one">יומן %1$d</item>
+    </plurals>
+    <plurals name="card_count">
+        <item quantity="other">‏%d כרטיסים</item>
+        <item quantity="zero">אין כרטיסים</item>
+        <item quantity="one">‏כרטיס %d</item>
+        <item quantity="two">‏%d כרטיסים</item>
+        <item quantity="few">‏%d כרטיסים</item>
+        <item quantity="many">‏%d כרטיסים</item>
+    </plurals>
+    <plurals name="num_movie_tickets">
+        <item quantity="other">%1$d כרטיסים</item>
+        <item quantity="one">%1$d כרטיס</item>
+    </plurals>
+    <plurals name="num_reviews">
+        <item quantity="other">%1$d ביקורות</item>
+        <item quantity="one">ביקורת %1$d</item>
+    </plurals>
+    <plurals name="miles">
+        <item quantity="other">&lt;font face=sans-serif>%d&lt;/font> מיילים</item>
+        <item quantity="one">&lt;font face=sans-serif>%d&lt;/font> מייל</item>
+    </plurals>
+    <plurals name="kilometers">
+        <item quantity="other">&lt;font face=sans-serif>%d&lt;/font> ק\"מ</item>
+        <item quantity="one">&lt;font face=sans-serif>%d&lt;/font> קילומטר</item>
+    </plurals>
+    <plurals name="reminders">
+        <item quantity="other">%1$d תזכורות</item>
+        <item quantity="one">תזכורת %1$d</item>
+    </plurals>
+    <plurals name="deleted">
+        <item quantity="other">%1$d נמחקו</item>
+    </plurals>
+    <plurals name="number_of_location_sharers">
+        <item quantity="other">%1$d אנשים משתפים איתך</item>
+        <item quantity="one">אדם %1$d משתף איתך</item>
+    </plurals>
+    <plurals name="expiring_duration_in_days">
+        <item quantity="other">התוקף יפוג בעוד %1$d ימים</item>
+        <item quantity="one">התוקף יפוג בעוד יום %1$d</item>
+    </plurals>
+    <plurals name="expiring_duration_in_hours">
+        <item quantity="other">התוקף יפוג בעוד %1$d שעות</item>
+        <item quantity="one">התוקף יפוג בעוד שעה %1$d</item>
+    </plurals>
+    <plurals name="expiring_duration_in_minutes">
+        <item quantity="other">התוקף יפוג בעוד %1$d דקות</item>
+        <item quantity="one">התוקף יפוג בעוד דקה %1$d</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$,d צפיות</item>
+        <item quantity="one">צפייה %1$,d</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">%1$d מושבים</item>
+        <item quantity="one">מושב</item>
+    </plurals>
+    <plurals name="calendar_event_meeting_summary_with_attendees">
+        <item quantity="other">‏&lt;xliff id="subject" example="Meeting">%1$s&lt;/xliff> ‏(&lt;xliff id="attendee_list" example="Paul, Peter, Jane, Hertha">%2$s&lt;/xliff>)</item>
+        <item quantity="one">‏&lt;xliff id="subject" example="Meeting">%1$s&lt;/xliff> עם &lt;xliff id="attendee_list" example="Hertha">%2$s&lt;/xliff></item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">%2$s יש לך %1$d אירועים הנמשכים כל היום: %3$s.</item>
+        <item quantity="one">%2$s יש לך אירוע הנמשך כל היום: %3$s.</item>
+    </plurals>
+</resources>

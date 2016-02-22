@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">‏מנוע טקסט-לדיבור של Google</string>
+    <string name="general_settings">הגדרות כלליות</string>
+    <string name="license_activity_title">הצגת רישיונות של קוד פתוח</string>
+    <string name="license_activity_loading">טוען...</string>
+    <string name="license_activity_unavailable">יש בעיה בטעינת הרישיונות.</string>
+    <string name="tts_settings_label">‏אפשרויות Google TTS</string>
+    <string name="voice_data_install_title">‏נתוני קול של Google TTS</string>
+    <string name="install_data_header">הורד את הנתונים האלה כדי לתמוך במכשיר בסינתזת דיבור במצב לא מקוון.</string>
+    <string name="download_invite_title">התקן קול דיבור ל%1$s</string>
+    <string name="download_invite">הפעל טקסט לדיבור במצב לא מקוון עבור %1$s</string>
+    <string name="install_voice_text_2">זמין להורדה.</string>
+    <string name="download_in_progress">מתבצעת הורדה</string>
+    <string name="no_installable_voices">אין קולות הניתנים להורדה</string>
+    <string name="cancel">ביטול</string>
+    <string name="delete_voice_data">מחק</string>
+    <string name="update">עדכן</string>
+    <string name="download">הורד</string>
+    <string name="voice_installed">מותקן.</string>
+    <string name="voice_installed_and_default">מותקן ומוגדר כברירת המחדל.</string>
+    <string name="download_notification_title">%2$s עבור %1$s</string>
+    <string name="download_notification_description">נתוני קול עבור המרת טקסט לדיבור</string>
+    <string name="download_success_title">נתוני קול שהורדו עבור %1$s</string>
+    <string name="download_success_description">"גע כדי לעבור אל 'הגדרות' ולהפוך קול זה לברירת המחדל."</string>
+    <string name="download_failure_title">שגיאה בהורדת נתוני קול עבור %1$s</string>
+    <string name="download_failure_description">גע כדי לנסות שוב.</string>
+    <string name="download_failed_toast">התחלת ההורדה של חבילת הקול נכשלה.</string>
+    <string name="manage_voice_data">ניהול נתוני קול</string>
+    <string name="auto_update_title">עדכון קולות אוטומטי</string>
+    <string name="auto_update_summary">עדכן קולות באופן אוטומטי</string>
+    <string name="auto_update_wifi_title">‏השתמש ב-Wi-Fi בלבד</string>
+    <string name="auto_update_wifi_summary">‏הורד נתוני קול רק באמצעות Wi-Fi - חסכוני בנתונים.</string>
+    <string name="voice_pack_status_installed">מותקן (%1$s)</string>
+    <string name="voice_pack_status_gender_female">נקבה</string>
+    <string name="voice_pack_status_gender_male">זכר</string>
+    <string name="voice_pack_status_updatable">יש עדכון זמין</string>
+    <string name="voice_pack_status_downloadable">‏הורד (‎~%1$s)</string>
+    <string name="voice_pack_status_locale_default">קול נוכחי</string>
+    <string name="voice_pack_status_downloading">מוריד…</string>
+    <string name="voice_pack_name_high_quality">%1$s (איכות גבוהה)</string>
+    <string name="voice_pack_description">"‏שם: %1$s 
+מקום: %2$s 
+נפח נתונים: ‎~%3$s 
+מין הדובר: %4$s"</string>
+    <string name="voice_pack_action_download">‏הורד (‎~%1$s)</string>
+    <string name="voice_pack_action_remove">הסר</string>
+    <string name="voice_pack_action_update">‏עדכן (‎~%1$s)</string>
+    <string name="voice_pack_action_locale_default">הפוך לקול הנוכחי עבור %1$s</string>
+    <string name="voice_pack_action_cancel">בטל הורדה</string>
+    <string name="voice_pack_install_tab_installed">מותקן</string>
+    <string name="voice_pack_install_tab_all">הכל</string>
+    <string name="voice_pack_install_tab_settings">הגדרות</string>
+    <string name="voice_entry_details">הפעל תיבת דיאלוג של פרטי קול</string>
+    <string name="voice_entry_overflow_desc">פעולות נוספות עבור חבילת קול</string>
+    <string name="voice_entry_download_desc">הורד חבילת קול</string>
+    <string name="voice_entry_cancel_download_desc">בטל את ההורדה של חבילת הקול</string>
+    <string name="voice_entry_delete_desc">מחק את חבילת הקול</string>
+    <string name="voice_entry_sample">השמע דוגמת קול</string>
+    <string name="voice_pack_not_enough_space">אין מספיק שטח באחסון הפנימי. יהיה עליך לפנות שטח על מנת להתקין את הקול הזה.</string>
+    <string name="action_settings">אפשרויות</string>
+    <string name="action_licenses">רישיונות לקוד פתוח</string>
+    <string name="action_voice_pack_update">עדכן</string>
+    <string name="action_voice_pack_uninstall">הסר התקנה</string>
+    <string name="voice_pack_uninstall_dialog">האם להסיר את התקנת הקול?</string>
+    <string name="voice_pack_uninstall_keep">שמור</string>
+    <string name="voice_pack_uninstall_uninstall">הסר התקנה</string>
+    <string name="voice_pack_unpack_failure">התקנת הקול שהורדת נכשלה</string>
+    <string name="multi_voice_pack_title">%1$s חבילות קול</string>
+    <string name="voice_pack_no_download_manager">מנהל ההורדות מושבת או חסר; לא ניתן להוריד חבילת קול</string>
+</resources>

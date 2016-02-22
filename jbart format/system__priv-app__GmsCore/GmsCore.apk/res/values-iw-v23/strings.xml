@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_setup_wizard_services_backup">‏<b>גבה באופן אוטומטי נתונים מהמכשיר</b> (כמו סיסמאות לרשתות Wi-Fi והיסטוריית שיחות) ונתוני אפליקציות (כמו הגדרות וקבצים שאוחסנו על ידי אפליקציות) אל Google Drive.‏ <annotation id="backup_details">מידע נוסף</annotation></string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"‏לאחר שתפעיל את הגיבוי האוטומטי, נתונים מהמכשיר ומאפליקציות יישמרו מדי פעם בתיקייה פרטית ב-Google Drive. נתוני אפליקציות יכולים לכלול את כל הנתונים שהאפליקציה שמרה (בהתבסס על הגדרות המפתח), כולל נתונים שעשויים להיות רגישים, כמו אנשי קשר, הודעות ותמונות.
+
+נתונים מגובים לא ייחשבו כחלק ממכסת האחסון ב-Drive. קבצים גדולים או קבצים שמפתחים בחרו שלא לכלול בשירות לא יגובו."</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan">‏<b>שפר את דיוק המיקום</b> על ידי כך שתאפשר לאפליקציות ולשירותים לחפש רשתות Wi‑Fi ומכשירי Bluetooth, גם כאשר ה-Wi‑Fi וה-Bluetooth כבויים.</string>
+</resources>

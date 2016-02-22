@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="games_dest_friends_are_playing">
+        <item quantity="other">משחקים</item>
+        <item quantity="one">משחק</item>
+    </plurals>
+    <plurals name="games_dest_player_detail_circle_format">
+        <item quantity="other">%1$s מעגלים</item>
+        <item quantity="one">מעגל %1$s</item>
+    </plurals>
+    <plurals name="games_duration_hours_and_minutes">
+        <item quantity="other">%1$s שעות, %2$s דקות</item>
+        <item quantity="one">%1$s שעות, דקה %2$s</item>
+    </plurals>
+    <plurals name="games_duration_minutes">
+        <item quantity="other">%1$s דקות</item>
+        <item quantity="one">דקה %1$s</item>
+    </plurals>
+    <plurals name="games_duration_one_hour_and_minutes">
+        <item quantity="other">שעה אחת, %1$s דקות</item>
+        <item quantity="one">שעה אחת , דקה %1$s</item>
+    </plurals>
+    <plurals name="games_duration_seconds">
+        <item quantity="other">%1$s שניות</item>
+        <item quantity="one">שנייה %1$s</item>
+    </plurals>
+    <plurals name="games_inbox_nearby_players_subtitle_enabled_format">
+        <item quantity="other">%1$d שחקנים בקרבת מקום</item>
+        <item quantity="one">שחקן %1$d בקרבת מקום</item>
+    </plurals>
+    <plurals name="games_leaderboard_player_count_format">
+        <item quantity="other">%1$s שחקנים</item>
+        <item quantity="one">שחקן %1$s</item>
+    </plurals>
+    <plurals name="games_request_cluster_card_title_gift">
+        <item quantity="other">%1$s מתנות התקבלו</item>
+        <item quantity="one">מתנה %1$s התקבלה</item>
+    </plurals>
+    <plurals name="games_request_cluster_card_title_wish">
+        <item quantity="other">%1$s בקשות התקבלו</item>
+        <item quantity="one">בקשה %1$s התקבלה</item>
+    </plurals>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="see_n_more">
+        <item quantity="other">%1$d נוספים</item>
+    </plurals>
+    <plurals name="minutes_left">
+        <item quantity="other">%1$d דקות נותרו</item>
+        <item quantity="one">דקה אחת נותרה</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">התוקף יפוג תוך %1$d ימים</item>
+        <item quantity="one">התוקף יפוג בעוד יום</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">התוקף יפוג תוך %1$d שעות</item>
+        <item quantity="one">התוקף יפוג בעוד שעה</item>
+    </plurals>
+</resources>

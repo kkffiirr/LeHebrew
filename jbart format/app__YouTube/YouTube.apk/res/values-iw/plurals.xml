@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="channel_header_subscriber_count">
+        <item quantity="other">‏%1$,d משתמשים רשומים</item>
+        <item quantity="zero">0 משתמשים רשומים</item>
+        <item quantity="one">‏משתמש רשום %1$,d</item>
+        <item quantity="two">‏%1$,d משתמשים רשומים</item>
+        <item quantity="few">‏%1$,d משתמשים רשומים</item>
+        <item quantity="many">‏%1$,d משתמשים רשומים</item>
+    </plurals>
+    <plurals name="years_ago">
+        <item quantity="other">לפני %1$d שנים</item>
+        <item quantity="one">לפני שנה</item>
+    </plurals>
+    <plurals name="months_ago">
+        <item quantity="other">לפני %1$d חודשים</item>
+        <item quantity="one">לפני חודש אחד</item>
+    </plurals>
+    <plurals name="weeks_ago">
+        <item quantity="other">לפני %1$d שבועות</item>
+        <item quantity="one">לפני שבוע</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">לפני %1$d ימים</item>
+        <item quantity="one">לפני יום</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">לפני %1$d שעות</item>
+        <item quantity="one">לפני שעה</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">לפני %1$d דקות</item>
+        <item quantity="one">לפני דקה אחת</item>
+    </plurals>
+    <plurals name="seconds_ago">
+        <item quantity="other">לפני %1$d שניות</item>
+        <item quantity="one">לפני שנייה אחת</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">נותרו %1$d ימים</item>
+        <item quantity="one">נותר יום אחד</item>
+        <item quantity="two">נותרו יומיים</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">נותרו %1$d שעות</item>
+        <item quantity="one">נותרה שעה</item>
+        <item quantity="two">נותרו שעתיים</item>
+    </plurals>
+    <plurals name="minutes_remaining">
+        <item quantity="other">נותרו %1$d דקות</item>
+        <item quantity="one">נותרה דקה</item>
+        <item quantity="two">נותרו שתי דקות</item>
+    </plurals>
+    <plurals name="playlist_size">
+        <item quantity="other">%1$,d סרטונים</item>
+        <item quantity="one">סרטון אחד</item>
+    </plurals>
+    <plurals name="notification_playlist_progress_size">
+        <item quantity="other">‏%1$d מתוך %2$d סרטונים</item>
+        <item quantity="zero">0 מתוך 0 סרטונים</item>
+        <item quantity="one">‏%1$d מתוך סרטון אחד</item>
+        <item quantity="two">‏%1$d מתוך %2$d סרטונים</item>
+        <item quantity="few">‏%1$d מתוך %2$d סרטונים</item>
+        <item quantity="many">‏%1$d מתוך %2$d סרטונים</item>
+    </plurals>
+    <plurals name="upload_progress">
+        <item quantity="other">‏%1$,d%% הועלו</item>
+        <item quantity="zero">‏%1$,d%% הועלו</item>
+        <item quantity="one">‏%1$,d%% הועלו</item>
+        <item quantity="two">‏%1$,d%% הועלו</item>
+        <item quantity="few">‏%1$,d%% הועלו</item>
+        <item quantity="many">‏%1$,d%% הועלו</item>
+    </plurals>
+    <plurals name="upload_seconds_remaing">
+        <item quantity="other">‏נותרו כ-%1$,d שניות</item>
+        <item quantity="zero">‏נותרו כ-%1$,d שניות</item>
+        <item quantity="one">‏נותרה כ-%1$,d שנייה</item>
+        <item quantity="two">‏נותרו כ-%1$,d שניות</item>
+        <item quantity="few">‏נותרו כ-%1$,d שניות</item>
+        <item quantity="many">‏נותרו כ-%1$,d שניות</item>
+    </plurals>
+    <plurals name="upload_minutes_remaing">
+        <item quantity="other">‏נותרו כ-%1$,d דקות</item>
+        <item quantity="zero">‏נותרו כ-%1$,d דקות</item>
+        <item quantity="one">‏נותרה כ-%1$,d דקה</item>
+        <item quantity="two">‏נותרו כ-%1$,d דקות</item>
+        <item quantity="few">‏נותרו כ-%1$,d דקות</item>
+        <item quantity="many">‏נותרו כ-%1$,d דקות</item>
+    </plurals>
+    <plurals name="upload_hours_remaing">
+        <item quantity="other">‏נותרו כ-%1$,d שעות</item>
+        <item quantity="zero">‏נותרו כ-%1$,d שעות</item>
+        <item quantity="one">‏נותרה כ-%1$,d שעה</item>
+        <item quantity="two">‏נותרו כ-%1$,d שעות</item>
+        <item quantity="few">‏נותרו כ-%1$,d שעות</item>
+        <item quantity="many">‏נותרו כ-%1$,d שעות</item>
+    </plurals>
+    <plurals name="channel_video_count">
+        <item quantity="other">‏%1$,d סרטונים</item>
+        <item quantity="zero">0 סרטונים</item>
+        <item quantity="one">‏סרטון %1$,d</item>
+        <item quantity="two">‏%1$,d סרטונים</item>
+        <item quantity="few">‏%1$,d סרטונים</item>
+        <item quantity="many">‏%1$,d סרטונים</item>
+    </plurals>
+    <plurals name="channel_subscriber_count">
+        <item quantity="other">‏%1$,d משתמשים רשומים</item>
+        <item quantity="zero">0 משתמשים רשומים</item>
+        <item quantity="one">‏משתמש רשום %1$,d</item>
+        <item quantity="two">‏%1$,d משתמשים רשומים</item>
+        <item quantity="few">‏%1$,d משתמשים רשומים</item>
+        <item quantity="many">‏%1$,d משתמשים רשומים</item>
+    </plurals>
+    <plurals name="age_and_views">
+        <item quantity="other">%1$s ‏· %2$,d צפיות</item>
+        <item quantity="zero">%1$s ‏· %2$,d צפיות</item>
+        <item quantity="one">%1$s · צפייה %2$,d</item>
+        <item quantity="two">%1$s ‏· %2$,d צפיות</item>
+        <item quantity="few">%1$s ‏· %2$,d צפיות</item>
+        <item quantity="many">%1$s ‏· %2$,d צפיות</item>
+    </plurals>
+    <plurals name="author_and_views">
+        <item quantity="other">%1$s ‏· %2$,d צפיות</item>
+        <item quantity="zero">%1$s ‏· %2$,d צפיות</item>
+        <item quantity="one">%1$s · צפייה %2$,d</item>
+        <item quantity="two">%1$s ‏· %2$,d צפיות</item>
+        <item quantity="few">%1$s ‏· %2$,d צפיות</item>
+        <item quantity="many">%1$s ‏· %2$,d צפיות</item>
+    </plurals>
+    <plurals name="accessibility_contextual_menu_count">
+        <item quantity="other">מציג %1$d פריטים</item>
+        <item quantity="zero">מציג 0 פריטים</item>
+        <item quantity="one">מציג פריט %1$d</item>
+        <item quantity="two">מציג %1$d פריטים</item>
+        <item quantity="few">מציג %1$d פריטים</item>
+        <item quantity="many">מציג %1$d פריטים</item>
+    </plurals>
+    <plurals name="accessibility_like_video_plural">
+        <item quantity="other">"‏סמן 'אהבתי', %1$,d משתמשים נוספים סימנו 'אהבתי' עבור הסרטון הזה"</item>
+        <item quantity="zero">"סמן 'אהבתי' עבור הסרטון הזה"</item>
+        <item quantity="one">"‏סמן 'אהבתי', משתמש %1$,d נוסף סימן 'אהבתי' עבור הפלייליסט הזה"</item>
+        <item quantity="two">"‏סמן 'אהבתי', %1$,d משתמשים נוספים סימנו 'אהבתי' עבור הסרטון הזה"</item>
+        <item quantity="few">"‏סמן 'אהבתי', %1$,d משתמשים נוספים סימנו 'אהבתי' עבור הסרטון הזה"</item>
+        <item quantity="many">"‏סמן 'אהבתי', %1$,d משתמשים נוספים סימנו 'אהבתי' עבור הסרטון הזה"</item>
+    </plurals>
+    <plurals name="accessibility_undo_like_video_plural">
+        <item quantity="other">"‏בטל סימון 'אהבתי', %1$,d משתמשים נוספים סימנו 'אהבתי' עבור הסרטון הזה"</item>
+        <item quantity="zero">"בטל סימון 'אהבתי' עבור הסרטון הזה"</item>
+        <item quantity="one">"‏בטל סימון 'אהבתי', משתמש %1$,d נוסף סימן 'אהבתי' עבור הסרטון הזה"</item>
+        <item quantity="two">"‏בטל סימון 'אהבתי', %1$,d משתמשים נוספים סימנו 'אהבתי' עבור הסרטון הזה"</item>
+        <item quantity="few">"‏בטל סימון 'אהבתי', %1$,d משתמשים נוספים סימנו 'אהבתי' עבור הסרטון הזה"</item>
+        <item quantity="many">"‏בטל סימון 'אהבתי', %1$,d משתמשים נוספים סימנו 'אהבתי' עבור הסרטון הזה"</item>
+    </plurals>
+    <plurals name="accessibility_dislike_video_plural">
+        <item quantity="other">"‏סמן 'לא אהבתי', %1$,d משתמשים נוספים סימנו 'לא אהבתי' עבור הסרטון הזה"</item>
+        <item quantity="zero">"סמן 'לא אהבתי' עבור הסרטון הזה"</item>
+        <item quantity="one">"‏סמן 'לא אהבתי', משתמש %1$,d נוסף סימן 'לא אהבתי' עבור הסרטון הזה"</item>
+        <item quantity="two">"‏סמן 'לא אהבתי', %1$,d משתמשים נוספים סימנו 'לא אהבתי' עבור הסרטון הזה"</item>
+        <item quantity="few">"‏סמן 'לא אהבתי', %1$,d משתמשים נוספים סימנו 'לא אהבתי' עבור הסרטון הזה"</item>
+        <item quantity="many">"‏סמן 'לא אהבתי', %1$,d משתמשים נוספים סימנו 'לא אהבתי' עבור הסרטון הזה"</item>
+    </plurals>
+    <plurals name="accessibility_undo_dislike_video_plural">
+        <item quantity="other">"‏בטל סימון 'לא אהבתי', %1$,d משתמשים נוספים סימנו 'לא אהבתי' עבור הסרטון הזה"</item>
+        <item quantity="zero">"בטל סימון 'לא אהבתי' עבור הסרטון הזה"</item>
+        <item quantity="one">"‏בטל סימון 'לא אהבתי', משתמש %1$,d נוסף סימן 'לא אהבתי' עבור הסרטון הזה"</item>
+        <item quantity="two">"‏בטל סימון 'לא אהבתי', %1$,d משתמשים נוספים סימנו 'לא אהבתי' עבור הסרטון הזה"</item>
+        <item quantity="few">"‏בטל סימון 'לא אהבתי', %1$,d משתמשים נוספים סימנו 'לא אהבתי' עבור הסרטון הזה"</item>
+        <item quantity="many">"‏בטל סימון 'לא אהבתי', %1$,d משתמשים נוספים סימנו 'לא אהבתי' עבור הסרטון הזה"</item>
+    </plurals>
+    <plurals name="accessibility_like_playlist_plural">
+        <item quantity="other">"‏סמן 'אהבתי', %1$,d משתמשים נוספים סימנו 'אהבתי' עבור הפלייליסט הזה"</item>
+        <item quantity="zero">"סמן 'אהבתי' עבור הפלייליסט הזה"</item>
+        <item quantity="one">"‏סמן 'אהבתי', משתמש %1$,d נוסף סימן 'אהבתי' עבור הפלייליסט הזה"</item>
+        <item quantity="two">"‏סמן 'אהבתי', %1$,d משתמשים נוספים סימנו 'אהבתי' עבור הפלייליסט הזה"</item>
+        <item quantity="few">"‏סמן 'אהבתי', %1$,d משתמשים נוספים סימנו 'אהבתי' עבור הפלייליסט הזה"</item>
+        <item quantity="many">"‏סמן 'אהבתי', %1$,d משתמשים נוספים סימנו 'אהבתי' עבור הפלייליסט הזה"</item>
+    </plurals>
+    <plurals name="accessibility_undo_like_playlist_plural">
+        <item quantity="other">"‏בטל סימון 'אהבתי', %1$,d משתמשים נוספים סימנו 'אהבתי' עבור הפלייליסט הזה"</item>
+        <item quantity="zero">"בטל סימון 'אהבתי' עבור הפלייליסט הזה"</item>
+        <item quantity="one">"‏בטל סימון 'אהבתי', משתמש %1$,d נוסף סימן 'אהבתי' עבור הפלייליסט הזה"</item>
+        <item quantity="two">"‏בטל סימון 'אהבתי', %1$,d משתמשים נוספים סימנו 'אהבתי' עבור הפלייליסט הזה"</item>
+        <item quantity="few">"‏בטל סימון 'אהבתי', %1$,d משתמשים נוספים סימנו 'אהבתי' עבור הפלייליסט הזה"</item>
+        <item quantity="many">"‏בטל סימון 'אהבתי', %1$,d משתמשים נוספים סימנו 'אהבתי' עבור הפלייליסט הזה"</item>
+    </plurals>
+    <plurals name="accessibility_dislike_playlist_plural">
+        <item quantity="other">"‏סמן 'לא אהבתי', %1$,d משתמשים נוספים סימנו 'לא אהבתי' עבור הפלייליסט הזה"</item>
+        <item quantity="zero">"סמן 'לא אהבתי' עבור הפלייליסט הזה"</item>
+        <item quantity="one">"‏סמן 'לא אהבתי', משתמש %1$,d נוסף סימן 'לא אהבתי' עבור הפלייליסט הזה"</item>
+        <item quantity="two">"‏סמן 'לא אהבתי', %1$,d משתמשים נוספים סימנו 'לא אהבתי' עבור הפלייליסט הזה"</item>
+        <item quantity="few">"‏סמן 'לא אהבתי', %1$,d משתמשים נוספים סימנו 'לא אהבתי' עבור הפלייליסט הזה"</item>
+        <item quantity="many">"‏סמן 'לא אהבתי', %1$,d משתמשים נוספים סימנו 'לא אהבתי' עבור הפלייליסט הזה"</item>
+    </plurals>
+    <plurals name="accessibility_undo_dislike_playlist_plural">
+        <item quantity="other">"‏בטל סימון 'לא אהבתי', %1$,d משתמשים נוספים סימנו 'לא אהבתי' עבור הפלייליסט הזה"</item>
+        <item quantity="zero">"בטל סימון 'לא אהבתי' עבור הפלייליסט הזה"</item>
+        <item quantity="one">"‏בטל סימון 'לא אהבתי', משתמש %1$,d נוסף סימן 'לא אהבתי' עבור הפלייליסט הזה"</item>
+        <item quantity="two">"‏בטל סימון 'לא אהבתי', %1$,d משתמשים נוספים סימנו 'לא אהבתי' עבור הפלייליסט הזה"</item>
+        <item quantity="few">"‏בטל סימון 'לא אהבתי', %1$,d משתמשים נוספים סימנו 'לא אהבתי' עבור הפלייליסט הזה"</item>
+        <item quantity="many">"‏בטל סימון 'לא אהבתי', %1$,d משתמשים נוספים סימנו 'לא אהבתי' עבור הפלייליסט הזה"</item>
+    </plurals>
+</resources>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>חזרה על בסיס יומי</item>
+        <item>חזרה על בסיס שבועי</item>
+        <item>חזרה על בסיס חודשי</item>
+        <item>חזרה על בסיס שנתי</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>אינו חוזר על עצמו</item>
+        <item>כל יום</item>
+        <item>כל שבוע</item>
+        <item>כל חודש</item>
+        <item>כל שנה</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>בכל יום ראשון הראשון בכל חודש</item>
+        <item>בכל יום ראשון השני בכל חודש</item>
+        <item>בכל יום ראשון השלישי בכל חודש</item>
+        <item>בכל יום ראשון הרביעי בכל חודש</item>
+        <item>בכל יום ראשון האחרון בכל חודש</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>בכל יום שני הראשון בכל חודש</item>
+        <item>בכל יום שני השני בכל חודש</item>
+        <item>בכל יום שני השלישי בכל חודש</item>
+        <item>בכל יום שני הרביעי בכל חודש</item>
+        <item>בכל יום שני האחרון בכל חודש</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>בכל יום שלישי הראשון בכל חודש</item>
+        <item>בכל יום שלישי השני בכל חודש</item>
+        <item>בכל יום שלישי השלישי בכל חודש</item>
+        <item>בכל יום שלישי הרביעי בכל חודש</item>
+        <item>בכל יום שלישי האחרון בכל חודש</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>בכל יום רביעי הראשון בכל חודש</item>
+        <item>בכל יום רביעי השני בכל חודש</item>
+        <item>בכל יום רביעי השלישי בכל חודש</item>
+        <item>בכל יום רביעי הרביעי בכל חודש</item>
+        <item>בכל יום רביעי האחרון בכל חודש</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>בכל יום חמישי הראשון בכל חודש</item>
+        <item>בכל יום חמישי השני בכל חודש</item>
+        <item>בכל יום חמישי השלישי בכל חודש</item>
+        <item>בכל יום חמישי הרביעי בכל חודש</item>
+        <item>בכל יום חמישי האחרון בכל חודש</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>בכל יום שישי הראשון בכל חודש</item>
+        <item>בכל יום שישי השני בכל חודש</item>
+        <item>בכל יום שישי השלישי בכל חודש</item>
+        <item>בכל יום שישי הרביעי בכל חודש</item>
+        <item>בכל יום שישי האחרון בכל חודש</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>בכל יום שבת הראשון בכל חודש</item>
+        <item>בכל יום שבת השני בכל חודש</item>
+        <item>בכל יום שבת השלישי בכל חודש</item>
+        <item>בכל יום שבת הרביעי בכל חודש</item>
+        <item>בכל יום שבת האחרון בכל חודש</item>
+    </string-array>
+    <string-array name="action_local_directions_travel_mode">
+        <item>נהיגה</item>
+        <item>הליכה</item>
+        <item>תחבורה ציבורית</item>
+        <item>רכיבה על אופניים</item>
+    </string-array>
+    <string-array name="action_local_navigate_travel_mode">
+        <item>נהיגה</item>
+        <item>הליכה</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>קרא אותה</item>
+        <item>קרא את ההודעה</item>
+        <item>קרא את הודעת הטקסט</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>השב</item>
+        <item>שלח תשובה</item>
+        <item>שלח תשובה</item>
+        <item>השב להודעת הטקסט</item>
+        <item>השב עליה</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>התקשר חזרה אל השולח של ההודעה האחרונה</item>
+        <item>התקשר אליו</item>
+        <item>התקשר אליו חזרה</item>
+        <item>התקשר אליה</item>
+        <item>התקשר אליה חזרה</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>סיבוב ראשון</item>
+        <item>סיבוב שני</item>
+        <item>סיבוב שלישי</item>
+        <item>סיבוב רביעי</item>
+        <item>סיבוב חמישי</item>
+        <item>סיבוב שישי</item>
+        <item>סיבוב שביעי</item>
+        <item>סיבוב שמיני</item>
+        <item>סיבוב תשיעי</item>
+        <item>סיבוב עשירי</item>
+        <item>סיבוב 11</item>
+        <item>סיבוב 12</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>תחילת הראשון</item>
+        <item>תחילת השני</item>
+        <item>תחילת השלישי</item>
+        <item>תחילת הרביעי</item>
+        <item>תחילת החמישי</item>
+        <item>תחילת השישי</item>
+        <item>תחילת השביעי</item>
+        <item>תחילת השמיני</item>
+        <item>תחילת התשיעי</item>
+        <item>תחילת העשירי</item>
+        <item>תחילת האחד עשר</item>
+        <item>תחילת השניים עשר</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>תחתית הראשון</item>
+        <item>תחתית השני</item>
+        <item>תחתית השלישי</item>
+        <item>תחתית הרביעי</item>
+        <item>תחתית החמישי</item>
+        <item>תחתית השישי</item>
+        <item>תחתית השביעי</item>
+        <item>תחתית השמיני</item>
+        <item>תחתית התשיעי</item>
+        <item>תחתית העשירי</item>
+        <item>תחתית האחד עשר</item>
+        <item>תחתית השניים עשר</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>אפריקאנס (דרום אפריקה)</item>
+        <item>"ערבית (אלג'יריה)"</item>
+        <item>ערבית (מצרים)</item>
+        <item>ערבית (עירק)</item>
+        <item>ערבית (ישראל)</item>
+        <item>ערבית (ירדן)</item>
+        <item>ערבית (כווית)</item>
+        <item>ערבית (לבנון)</item>
+        <item>ערבית (לוב)</item>
+        <item>ערבית (מרוקו)</item>
+        <item>ערבית (קטאר)</item>
+        <item>ערבית (ערב הסעודית)</item>
+        <item>ערבית (סודן)</item>
+        <item>ערבית (סוריה)</item>
+        <item>ערבית (טוניסיה)</item>
+        <item>ערבית (איחוד האמירויות)</item>
+        <item>ערבית (תימן)</item>
+        <item>בלרוסית (בלרוס)</item>
+        <item>בנגאלית (בנגלדש)</item>
+        <item>בולגרית (בולגריה)</item>
+        <item>קטלאנית (ספרד)</item>
+        <item>סינית, מנדרינית (סין, פשוטה)</item>
+        <item>סינית, מנדרינית (הונג קונג, פשוטה)</item>
+        <item>סינית, מנדרינית (הונג קונג, מסורתית)</item>
+        <item>סינית, מנדרינית (סינגפור, פשוטה)</item>
+        <item>סינית, מנדרינית (טאיוואן, פשוטה)</item>
+        <item>סינית, מנדרינית (טייוואן, מסורתית)</item>
+        <item>סינית, יו (סין, פשוטה)</item>
+        <item>סינית, יו (הונג קונג, מסורתית)</item>
+        <item>קרואטית (קרואטיה)</item>
+        <item>"צ'כית (הרפובליקה הצ'כית)"</item>
+        <item>דנית (דנמרק)</item>
+        <item>הולנדית (בלגיה)</item>
+        <item>הולנדית (הולנד)</item>
+        <item>אנגלית (כללי)</item>
+        <item>אנגלית (אוסטרליה)</item>
+        <item>אנגלית (בנגלדש)</item>
+        <item>אנגלית (קנדה)</item>
+        <item>אנגלית (הונג קונג)</item>
+        <item>אנגלית (הודו)</item>
+        <item>אנגלית (אירלנד)</item>
+        <item>אנגלית (קניה)</item>
+        <item>אנגלית (מלזיה)</item>
+        <item>אנגלית (ניו זילנד)</item>
+        <item>אנגלית (ניגריה)</item>
+        <item>אנגלית (פקיסטן)</item>
+        <item>אנגלית (הפיליפינים)</item>
+        <item>אנגלית (סינגפור)</item>
+        <item>אנגלית (דרום אפריקה)</item>
+        <item>אנגלית (סודן)</item>
+        <item>אנגלית (טנזניה)</item>
+        <item>אנגלית (אוגנדה)</item>
+        <item>אנגלית (בריטניה)</item>
+        <item>אנגלית (ארה\"ב)</item>
+        <item>אסטונית (אסטוניה)</item>
+        <item>פיליפינית (פיליפינים)</item>
+        <item>פינית (פינלנד)</item>
+        <item>צרפתית (בלגיה)</item>
+        <item>צרפתית (קנדה)</item>
+        <item>צרפתית (צרפת)</item>
+        <item>צרפתית (שוויץ)</item>
+        <item>גליציאנית (ספרד)</item>
+        <item>גרמנית (אוסטריה)</item>
+        <item>גרמנית (גרמניה)</item>
+        <item>גרמנית (שוויץ)</item>
+        <item>גרמנית (ליכטנשטיין)</item>
+        <item>יוונית (יוון)</item>
+        <item>עברית (ישראל)</item>
+        <item>הינדית (הודו)</item>
+        <item>הונגרית (הונגריה)</item>
+        <item>איסלנדית (איסלנד)</item>
+        <item>אינדונזית (אינדונזיה)</item>
+        <item>אירית (אירלנד)</item>
+        <item>איסינדבלה (דרום אפריקה)</item>
+        <item>"איסיק'אוזה (דרום אפריקה)"</item>
+        <item>איסיזולו (דרום אפריקה)</item>
+        <item>איטלקית (איטליה)</item>
+        <item>איטלקית (שוויץ)</item>
+        <item>יפנית (יפן)</item>
+        <item>קוריאנית (דרום קוריאה)</item>
+        <item>לטבית (לטביה)</item>
+        <item>ליטאית (ליטא)</item>
+        <item>מאלאית (מלזיה)</item>
+        <item>מאלאית (סינגפור)</item>
+        <item>נורווגית ספרותית (בוקמול) (נורווגיה)</item>
+        <item>נורווגית נינורשק (נורווגיה)</item>
+        <item>פרסית (אירן)</item>
+        <item>פולנית (פולין)</item>
+        <item>פורטוגזית (אנגולה)</item>
+        <item>פורטוגזית (ברזיל)</item>
+        <item>פורטוגזית (פורטוגל)</item>
+        <item>רומנית (רומניה)</item>
+        <item>רוסית (בלרוס)</item>
+        <item>רוסית (רוסיה)</item>
+        <item>ספדי (דרום אפריקה)</item>
+        <item>סרבית (סרביה, קירילית)</item>
+        <item>ססוטו (דרום אפריקה)</item>
+        <item>סטסוואנה (דרום אפריקה)</item>
+        <item>סיסוואטי (דרום אפריקה)</item>
+        <item>סלובקית (סלובקיה)</item>
+        <item>סלובנית (סלובניה)</item>
+        <item>ספרדית (ארגנטינה)</item>
+        <item>ספרדית (בוליביה)</item>
+        <item>"ספרדית (צ'ילה)"</item>
+        <item>ספרדית (קולומביה)</item>
+        <item>ספרדית (קוסטה ריקה)</item>
+        <item>ספרדית (קובה)</item>
+        <item>ספרדית (הרפובליקה הדומיניקנית)</item>
+        <item>ספרדית (אקוודור)</item>
+        <item>ספרדית (אל סלוודור)</item>
+        <item>ספרדית (גוואטמלה)</item>
+        <item>ספרדית (הונדורס)</item>
+        <item>ספרדית (מקסיקו)</item>
+        <item>ספרדית (ניקרגוואה)</item>
+        <item>ספרדית (פנמה)</item>
+        <item>ספרדית (פרגואי)</item>
+        <item>ספרדית (פרו)</item>
+        <item>ספרדית (פוארטו ריקו)</item>
+        <item>ספרדית (ספרד)</item>
+        <item>ספרדית (ארצות הברית)</item>
+        <item>ספרדית (אורוגוואי)</item>
+        <item>ספרדית (ונצואלה)</item>
+        <item>סואהילית (קניה)</item>
+        <item>סוואהילית (טנזניה)</item>
+        <item>סוואהילית (אוגנדה)</item>
+        <item>שוודית (פינלנד)</item>
+        <item>שוודית (שוודיה)</item>
+        <item>תאילנדית (תאילנד)</item>
+        <item>"צ'יבנדה (דרום אפריקה)"</item>
+        <item>טורקית (טורקיה)</item>
+        <item>אוקראינית (אוקראינה)</item>
+        <item>אורדו (פקיסטן)</item>
+        <item>וייטנאמית (וייטנאם)</item>
+        <item>צונגה (דרום אפריקה)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>היום</item>
+        <item>מחר</item>
+        <item>מדי פעם</item>
+        <item>הגדר תאריך…</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>בוקר</item>
+        <item>אחר הצהריים</item>
+        <item>ערב</item>
+        <item>לילה</item>
+        <item>כל היום</item>
+        <item>הגדר שעה…</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>הגעה</item>
+        <item>יציאה</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>בית</item>
+        <item>עבודה</item>
+        <item>הגדר מיקום…</item>
+    </string-array>
+</resources>
