@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uv_comments">
+        <item quantity="other">הערות</item>
+        <item quantity="one">הערה</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="other">מנויים</item>
+        <item quantity="one">מנוי</item>
+    </plurals>
+    <plurals name="uv_articles">
+        <item quantity="other">מאמרים</item>
+        <item quantity="one">מאמר</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="other">רעיונות</item>
+        <item quantity="one">רעיון</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="other">אנשים</item>
+        <item quantity="one">אדם</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="other">%1$s רוצים את הרעיון הזה</item>
+        <item quantity="one">%1$s רוצה את הרעיון הזה</item>
+    </plurals>
+    <plurals name="uf_sdk_topics">
+        <item quantity="other">נושאים</item>
+        <item quantity="one">נושא</item>
+    </plurals>
+    <plurals name="uf_sdk_number_of_subscribers_format">
+        <item quantity="other">%1$s אוהבים את הנושא הזה</item>
+        <item quantity="one">%1$s אוהב את הנושא הזה</item>
+    </plurals>
+    <plurals name="history_time_day_main">
+        <item quantity="other">לפני %d ימים</item>
+        <item quantity="one">לפני יום</item>
+    </plurals>
+    <plurals name="history_time_hour_main">
+        <item quantity="other">לפני %d שעות</item>
+        <item quantity="one">לפני שעה</item>
+    </plurals>
+    <plurals name="history_time_min_main">
+        <item quantity="other">לפני %d דקות</item>
+        <item quantity="one">לפני דקה</item>
+    </plurals>
+    <plurals name="history_time_sec_main">
+        <item quantity="other">לפני %d שניות</item>
+        <item quantity="one">לפני שנייה</item>
+    </plurals>
+    <plurals name="history_time_day">
+        <item quantity="other">%d ימים</item>
+        <item quantity="one">יום</item>
+    </plurals>
+    <plurals name="history_time_hour">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה</item>
+    </plurals>
+    <plurals name="history_time_min">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה</item>
+    </plurals>
+    <plurals name="history_time_sec">
+        <item quantity="other">%d שניות</item>
+        <item quantity="one">שנייה</item>
+    </plurals>
+    <plurals name="item_selected">
+        <item quantity="other">%d פריטים נבחרו</item>
+        <item quantity="one">פריט %d נבחר</item>
+    </plurals>
+    <plurals name="delete_speeddial_warning">
+        <item quantity="other">למחוק %d פאיטים מהחיוג המהיר?</item>
+        <item quantity="one">למחוק פריט %d מהחיוג המהיר?</item>
+    </plurals>
+    <plurals name="delete_mostvisited_warning">
+        <item quantity="other">למחוק %d פריטים מהנצפים ביותר?</item>
+        <item quantity="one">למחוק פריט %d מהנצפים ביותר?</item>
+    </plurals>
+    <plurals name="delete_recentclosed_warning">
+        <item quantity="other">האם למחוק %d פריטים מרשימת הדפים שנסגרו לאחרונה?</item>
+        <item quantity="one">האם למחוק פריט %d מרשימת הדפים שנסגרו לאחרונה?</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d מתוך %2$d</item>
+        <item quantity="one">התאמה אחת</item>
+    </plurals>
+</resources>
