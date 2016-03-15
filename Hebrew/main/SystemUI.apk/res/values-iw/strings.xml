@@ -203,7 +203,7 @@
     <string name="start_dreams">חלום בהקיץ</string>
     <string name="ethernet_label">Ethernet</string>
     <string name="quick_settings_airplane_mode_label">מצב טיסה</string>
-    <string name="quick_settings_battery_charging_label">טוען (%d%%)</string>
+    <string name="quick_settings_battery_charging_label">טוען: %d%%</string>
     <string name="quick_settings_battery_charged_label">מלאה</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">‏Bluetooth ‏(%d מכשירים)</string>
@@ -283,7 +283,7 @@
     <string name="interruption_level_none">ללא</string>
     <string name="interruption_level_priority">עדיפות</string>
     <string name="interruption_level_all">הכל</string>
-    <string name="keyguard_indication_charging_time">טוען (%s עד לסיום)</string>
+    <string name="keyguard_indication_charging_time">טוען (%s עד לסיום הטעינה)</string>
     <string name="accessibility_multi_user_switch_switcher">החלפת משתמש</string>
     <string name="accessibility_multi_user_switch_switcher_with_current">החלף משתמש. המשתמש הנוכחי הוא %s</string>
     <string name="accessibility_multi_user_switch_quick_contact">הצג פרופיל</string>
@@ -406,7 +406,7 @@
     <string name="keyguard_label_text">"כדי לבטל את הנעילה, לחץ על 'תפריט' ולאחר מכן על 0."</string>
     <string name="faceunlock_multiple_failures">חרגת ממספר הניסיונות המרבי של זיהוי פנים</string>
     <string name="keyguard_charged">טעון</string>
-    <string name="keyguard_plugged_in">טוען</string>
+    <string name="keyguard_plugged_in">סוללה נטענת %d</string>
     <string name="keyguard_low_battery">חבר את המטען.</string>
     <string name="keyguard_instructions_when_pattern_disabled">"לחץ על 'תפריט' כדי לבטל את הנעילה."</string>
     <string name="keyguard_network_locked_message">רשת נעולה</string>

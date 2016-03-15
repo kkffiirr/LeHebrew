@@ -2702,4 +2702,22 @@ Wi‑Fi Assistant"</string>
     <string name="ims_toggle_summary">מספק שירותי מערכת משנה של מולטימדיה ב-IP</string>
     <string name="sms_vibrate_summary">הפעל רטט במכשירים עבור SMS</string>
     <string name="default_data_switch_err_msg1">לא ניתן לעבור ל-SIM המועדף עבור תקשורת נתונים סלולרית במהלך שיחה.</string>
+	<string name="person_tether_title">נקודה חמה</string>
+    <string name="dual_sim_network_settings_title">הגדרות רשת סלולרית וסים כפול</string>
+    <string name="header_common_settings">כללי</string>
+    <string name="common">כללי</string>	
+    <string name="leui_wallpaper_and_theme_settings">רקעים וערכות נושא</string>
+    <string name="sound_vibration_settings">צליל ורטט</string>
+    <string name="control_center_settings">מרכז בקרה</string>
+    <string name="leui_main_tab_application">הגדרות</string>
+    <string name="leui_double_apps_settings">גישה כפולה לאפליקציה</string>
+    <string name="le_account_settings_title">ניהול חשבון</string>
+    <string name="finger_settings">טביעת אצבע</string>
+    <string name="finger">טביעת אצבע</string>
+    <string name="finger_unlock">פתיחה באמצעות טביעת אצבע</string>
+    <string name="finger_new">הוספת טביעת אצבע חדשה</string>
+    <string name="finger_defualt_name">Finger%s</string>
+    <string name="privacy_settings_factory_reset">שחזר להגדרות יצרן</string>
+    <string name="leui_main_tab_system">הגדרות מערכת</string>
+    	
 </resources>
