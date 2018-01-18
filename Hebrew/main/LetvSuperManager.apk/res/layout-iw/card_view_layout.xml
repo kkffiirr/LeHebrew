@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/LeCardView"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layoutDirection="ltr">
+        <TextView android:id="@id/card_title" style="@style/LeCardViewText.Title" />
+        <ImageView android:id="@id/settingimage" android:background="?android:selectableItemBackgroundBorderless" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="6.0dip" android:layout_marginRight="10.0dip" android:src="@drawable/icon_settings_card" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <FrameLayout android:id="@id/card_widget" style="@style/LeCardViewWidget" />
+    <ImageView android:layout_gravity="center" android:id="@id/arrowImageView" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="32.0dip" android:src="@drawable/icon_rubbish_arrow_down" />
+</LinearLayout>

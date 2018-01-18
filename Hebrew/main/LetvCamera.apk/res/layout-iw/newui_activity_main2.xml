@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.camera.newui.NewCameraRootLayout android:id="@id/root_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.camera.newui.NewPreviewLayout android:layout_gravity="center" android:id="@id/preview_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextureView android:id="@id/preview_content_main" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <ImageView android:id="@id/switch_cover" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" />
+    </com.android.camera.newui.NewPreviewLayout>
+    <include layout="@layout/newui_focus_layout" />
+    <com.android.camera.newui.PreviewOverlay android:id="@id/preview_overlay" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include android:id="@id/mode_p" android:layout_width="fill_parent" android:layout_height="28.0dip" android:layout_alignParentBottom="true" layout="@layout/newui_mode_switcher2" />
+    <com.android.camera.newui.NewMainFuncLayout2 android:id="@id/function_l" android:background="@color/main_function_bg" android:layout_width="fill_parent" android:layout_height="137.0dip" android:layout_alignParentBottom="true">
+        <com.android.camera.newui.NewShutterButton android:id="@id/shutter_button" android:layout_width="81.0dip" android:layout_height="81.0dip" android:scaleType="fitCenter" android:layout_centerInParent="true" />
+        <com.android.camera.newui.NewThumbView android:id="@id/thumb" android:layout_width="81.0dip" android:layout_height="81.0dip" android:src="@drawable/new_thumb_default" android:scaleType="fitXY" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        <com.android.camera.newui.NewRotateImageView android:id="@id/filter" android:layout_width="81.0dip" android:layout_height="81.0dip" android:src="@drawable/new_btn_0" android:scaleType="fitCenter" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </com.android.camera.newui.NewMainFuncLayout2>
+    <FrameLayout android:id="@id/mount_point" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentTop="true" />
+    <com.android.camera.newui.NewCoverImageView android:id="@id/touch_cover" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="#aa123456" />
+</com.android.camera.newui.NewCameraRootLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="le_months_en">
+        <item>ינו</item>
+        <item>פבר</item>
+        <item>מרץ</item>
+        <item>אפר</item>
+        <item>מאי</item>
+        <item>יונ</item>
+        <item>יול</item>
+        <item>אוג</item>
+        <item>ספט</item>
+        <item>אוק</item>
+        <item>נוב</item>
+        <item>דצמ</item>
+    </string-array>
+    <string-array name="special_effects">
+        <item>קלאסי</item>
+        <item>ערימה</item>
+        <item>רוח</item>
+        <item>הפוך</item>
+        <item>קוביה</item>
+    </string-array>
+</resources>

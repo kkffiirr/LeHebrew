@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<countrys>
+    <item name="HongKong" mcc="454" />
+    <item name="India" mcc="404" />
+    <item name="Macao" mcc="455" />
+    <item name="China" mcc="460" />
+    <item name="Taiwan" mcc="466" />
+    <item name="Greece" mcc="202" />
+    <item name="Netherlands" mcc="204" />
+    <item name="France" mcc="208" />
+    <item name="Italy" mcc="222" />
+    <item name="Switzerland" mcc="228" />
+    <item name="Russian" mcc="250" />
+    <item name="Ukraine" mcc="255" />
+    <item name="Belarus" mcc="257" />
+    <item name="Germany" mcc="262" />
+    <item name="Ireland" mcc="272" />
+    <item name="Turkey" mcc="286" />
+    <item name="Canada" mcc="302" />
+    <item name="America" mcc="310" />
+    <item name="Mexico" mcc="334" />
+    <item name="Jamaica" mcc="338" />
+    <item name="Cuba" mcc="368" />
+    <item name="Kazakhstan" mcc="401" />
+    <item name="Pakistan" mcc="410" />
+    <item name="Afghanistan" mcc="412" />
+    <item name="Myanmar" mcc="414" />
+    <item name="Lebanon" mcc="415" />
+    <item name="Iraq" mcc="418" />
+    <item name="Saudi Arabia" mcc="420" />
+    <item name="Japan" mcc="440" />
+    <item name="Korea" mcc="450" />
+    <item name="Viet Nam" mcc="452" />
+    <item name="Malaysia" mcc="502" />
+    <item name="Australia" mcc="505" />
+    <item name="Indonesia" mcc="510" />
+    <item name="Philippines" mcc="515" />
+    <item name="Thailand" mcc="520" />
+    <item name="Singapore" mcc="525" />
+    <item name="Egypt" mcc="602" />
+    <item name="Ethiopia" mcc="636" />
+    <item name="Kenya" mcc="639" />
+    <item name="South Africa" mcc="655" />
+    <item name="Argentine" mcc="722" />
+    <item name="Brazil" mcc="724" />
+    <item name="Venezuela" mcc="734" />
+    <item name="Israel" mcc="425" />
+    <item name="Others" mcc="-1" />
+</countrys>

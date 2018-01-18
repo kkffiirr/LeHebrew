@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>ללא נושא</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>שנייה</item>
+        <item>2 שניות</item>
+        <item>3 שניות</item>
+        <item>4 שניות</item>
+        <item>5 שניות</item>
+        <item>6 שניות</item>
+        <item>7 שניות</item>
+        <item>8 שניות</item>
+        <item>9 שניות</item>
+        <item>10 שניות</item>
+        <item>אחר</item>
+    </string-array>
+    <string-array name="filter_message_list">
+        <item>כל ההודעות</item>
+        <item>הודעות אישיות</item>
+        <item>הודעות התראה</item>
+    </string-array>
+    <string-array name="more_action_message_list">
+        <item>פרטים</item>
+        <item>שמור צרופה</item>
+        <item>שמור לכרטים הסים</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>טלפון</item>
+        <item>כרטיס סים</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>זיכרון המכשיר</item>
+        <item>כרטיס הסים</item>
+    </string-array>
+    <string-array name="le_url_email_list">
+        <item>העתק כתובת דור אלקטרוני</item>
+        <item>שלח דואר אלקטרוני</item>
+        <item>שמור דואר אלקטרוני</item>
+    </string-array>
+    <string-array name="le_url_phone_list">
+        <item>בצע שיחה</item>
+        <item>שלח הודעה</item>
+        <item>שמור כאיש קשר חדש</item>
+        <item>העתק מספר</item>
+        <item>שמור לאיש קשר קיים</item>
+    </string-array>
+    <string-array name="le_url_web_list">
+        <item>העתק</item>
+        <item>פתח</item>
+        <item>שמור</item>
+    </string-array>
+    <string-array name="le_months_en">
+        <item>ינו</item>
+        <item>פבר</item>
+        <item>מרץ</item>
+        <item>אפר</item>
+        <item>מאי</item>
+        <item>יונ</item>
+        <item>יול</item>
+        <item>אוג</item>
+        <item>ספט</item>
+        <item>אוק</item>
+        <item>נוב</item>
+        <item>דצמ</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_values">
+        <item>זיכרון המכשיר</item>
+        <item>כרטיס הסים</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_values">
+        <item>זיכרון המכשיר</item>
+        <item>כרטיס הסים</item>
+    </string-array>
+</resources>

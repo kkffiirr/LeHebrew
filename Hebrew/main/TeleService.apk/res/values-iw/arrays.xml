@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>ברירת המחדל של הרשת</item>
+        <item>הסתר מספר</item>
+        <item>הצג מספר</item>
+    </string-array>
+    <string-array name="clir_values">
+        <item>DEFAULT</item>
+        <item>HIDE</item>
+        <item>SHOW</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>אנגלית</item>
+        <item>צרפתית</item>
+        <item>ספרדית</item>
+        <item>יפנית</item>
+        <item>קוריאנית</item>
+        <item>סינת</item>
+        <item>עברית</item>
+    </string-array>
+</resources>

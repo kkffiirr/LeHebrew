@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.camera.newui.NewLiveMainFunctionLayout android:id="@id/function_live" android:background="@color/main_function_bg" android:layout_width="fill_parent" android:layout_height="137.0dip" android:layout_alignParentBottom="true" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.camera.newui.NewShutterButton android:id="@id/shutter_button_live" android:layout_width="81.0dip" android:layout_height="81.0dip" android:scaleType="fitCenter" android:layout_centerInParent="true" />
+    <com.android.camera.newui.NewThumbFrame android:id="@id/thumb_frame_live" android:layout_width="81.0dip" android:layout_height="81.0dip" android:layout_alignParentLeft="true" android:layout_centerVertical="true">
+        <com.android.camera.newui.NewThumbView android:layout_gravity="center" android:id="@id/thumb_live" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/new_thumb_default" android:scaleType="fitXY" />
+        <ImageView android:layout_gravity="center" android:id="@id/thumb_bound_live" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/new_thumb_frame" />
+    </com.android.camera.newui.NewThumbFrame>
+    <ImageView android:id="@id/line_live" android:layout_width="fill_parent" android:layout_height="0.5dip" android:src="#33ffffff" android:layout_above="@id/function_live" />
+</com.android.camera.newui.NewLiveMainFunctionLayout>

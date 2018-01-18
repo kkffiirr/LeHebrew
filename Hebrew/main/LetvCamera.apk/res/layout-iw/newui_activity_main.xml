@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.camera.newui.NewCameraRootLayout android:id="@id/root_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.camera.newui.NewPreviewLayout android:layout_gravity="center" android:id="@id/preview_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/switch_cover" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" />
+    </com.android.camera.newui.NewPreviewLayout>
+    <View android:id="@id/camera_preview_cover" android:background="@android:color/black" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <RelativeLayout android:id="@id/preview_layout_animation" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/blur_animation" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/preview_fps_layout" android:visibility="gone" android:layout_width="100.0dip" android:layout_height="50.0dip">
+        <TextView android:textColor="#ff0000ff" android:layout_gravity="center|left" android:id="@id/preview_fps" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </RelativeLayout>
+    <ImageView android:id="@id/preview_cover" android:background="#ff000000" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" />
+    <ImageView android:id="@id/shutter_animation" android:background="#ff000000" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" />
+    <com.android.camera.newui.FilterNameLayout android:layout_gravity="center" android:id="@id/filter_name_layout" android:background="#00000000" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include layout="@layout/newui_focus_layout" />
+    <ImageView android:id="@id/fill_light_cover" android:background="@color/filllight_cover_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.android.camera.newui.ZoomLayout android:id="@id/zoom_layout" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include layout="@layout/newui_onscreen_layout" />
+</com.android.camera.newui.NewCameraRootLayout>

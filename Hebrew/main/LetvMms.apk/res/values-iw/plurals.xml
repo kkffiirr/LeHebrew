@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">מחק %1$s שיחות</item>
+        <item quantity="one">מחק שיחה אחת.</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s הודעה אחרות</item>
+        <item quantity="one">+%1$s הודעה אחרת</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s נמענים</item>
+        <item quantity="one">נמען אחד</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s הודעות נמצאו כשחיפשתי %2$s</item>
+        <item quantity="one">%1$s הודעה נמצאה כשחיפשתי %2$s</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s שניות</item>
+        <item quantity="one">%s שנייה</item>
+        <item quantity="few">%s שניות</item>
+    </plurals>
+    <plurals name="audio_time">
+        <item quantity="other">%1$s שניות</item>
+        <item quantity="one">%1$s שנייה</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d נבחרו</item>
+        <item quantity="one">%d נבחר</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">שולח %d דוחות מסירה</item>
+        <item quantity="one">שולח %d דוח מסירה</item>
+    </plurals>
+    <plurals name="pattern_day">
+        <item quantity="other">" ימים "</item>
+        <item quantity="one">" יום "</item>
+    </plurals>
+    <plurals name="pattern_hour">
+        <item quantity="other">" שעות "</item>
+        <item quantity="one">" שעה "</item>
+    </plurals>
+    <plurals name="pattern_minute">
+        <item quantity="other">" דקות "</item>
+        <item quantity="one">" דקה "</item>
+    </plurals>
+    <plurals name="pattern_שנייה">
+        <item quantity="other">" שניות "</item>
+        <item quantity="one">" שנייה "</item>
+    </plurals>
+</resources>

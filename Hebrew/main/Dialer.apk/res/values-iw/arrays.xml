@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="absent_num">
+        <item>ABSENT NUMBER</item>
+        <item>ABSENTNUMBER</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_values">
+        <item>תמיד</item>
+        <item>שקט</item>
+        <item>לעולם לא</item>
+    </string-array>
+    <string-array name="number_opt">
+        <item>צור איש קשר</item>
+        <item>הוסף לאיש קשר קיים</item>
+        <item>מחק</item>
+        <item>יומן שיחות</item>
+        <item>הוסף לרשימה שחורה</item>
+        <item>סמן בדגל</item>
+    </string-array>
+    <string-array name="markLables">
+        <item>שיחות מטרידות</item>
+        <item>התחזות</item>
+        <item>סוכן</item>
+        <item>מכירות</item>
+        <item>משלוח</item>
+        <item>אקספרס</item>
+        <item>אחר</item>
+    </string-array>
+    <string-array name="labelOrders">
+        <item>g</item>
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+    </string-array>
+    <string-array name="markLables_for_yellopage">
+        <item>שיחות מטרידות</item>
+        <item>התחזות</item>
+        <item>סוכן</item>
+        <item>מכירות</item>
+        <item>משלוח</item>
+        <item>אקספרס</item>
+        <item>אחר</item>
+    </string-array>
+    <string-array name="blackItmes">
+        <item>חסום שיחות והודעות</item>
+        <item>חסום שיחות</item>
+        <item>חסום הודעות</item>
+    </string-array>
+    <string-array name="leBlockPrimaryItmes">
+        <item>בחר מה לחסום</item>
+        <item>הוסף לרשימה שחורה</item>
+    </string-array>
+    <string-array name="filterOperator">
+        <item>כל השיחות</item>
+        <item>שיחות שלא נענו</item>
+        <item>שיחות לסים 1</item>
+        <item>שיחות לסים 2</item>
+    </string-array>
+    <string-array name="filter_calllog_list">
+        <item>הכל</item>
+        <item>שלא נענו</item>
+        <item>שיחות סים 1</item>
+        <item>שיחות סים 2</item>
+    </string-array>
+    <string-array name="filter_calllog_list_single_sim">
+        <item>הכל</item>
+        <item>שלא נענו</item>
+    </string-array>
+    <string-array name="filter_calllog_list_single_sim_with_hometime">
+        <item>הכל</item>
+        <item>שלא נענו</item>
+        <item>HomeTime</item>
+    </string-array>
+    <string-array name="filter_calllog_list_with_hometime">
+        <item>הכל</item>
+        <item>שלא נענו</item>
+        <item>שיחות סים 1</item>
+        <item>שיחות סים 2</item>
+        <item>HomeTime</item>
+    </string-array>
+    <string-array name="dialer_setting_more_options">
+        <item>הדבק מספר מהלוח</item>
+        <item>הגדרות</item>
+        <item>משוב</item>
+    </string-array>
+</resources>

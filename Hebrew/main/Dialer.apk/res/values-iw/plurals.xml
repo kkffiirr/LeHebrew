@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_שניות">
+        <item quantity="other">%d שניות</item>
+        <item quantity="one">שניה</item>
+    </plurals>
+    <plurals name="duration_דקות">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">נמצאו %d יומני שיחות</item>
+        <item quantity="one">נמצא יומן שיחות אחד</item>
+    </plurals>
+    <plurals name="searchFoundאנשי קשר">
+        <item quantity="other">%d אנשי קשר נמצא</item>
+        <item quantity="one">נמצא איש קשר אחד</item>
+    </plurals>
+    <plurals name="listTotalAllאנשי קשר">
+        <item quantity="other">%d אנשי קשר</item>
+        <item quantity="one">1 contact</item>
+    </plurals>
+    <plurals name="rington_count">
+        <item quantity="other">צלצל %s פעמים</item>
+        <item quantity="one">צלצל פעם אחת</item>
+    </plurals>
+    <plurals name="אנשי קשרDeleteTip">
+        <item quantity="other">מחק %s אנשי קשר?</item>
+        <item quantity="one">מחק איש קשר?</item>
+    </plurals>
+    <plurals name="add_to_group_done_success_tip">
+        <item quantity="other">אנשי קשר נוספו</item>
+        <item quantity="one">נוסף איש קשר</item>
+    </plurals>
+    <plurals name="import_from_vcard_success">
+        <item quantity="other">אנשי קשר יובאו</item>
+        <item quantity="one">יובא איש קשר</item>
+    </plurals>
+    <plurals name="le_selected">
+        <item quantity="other">%d נבחרו</item>
+        <item quantity="one">נבחר</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d הודעות קוליות</item>
+        <item quantity="one">הודעה קולית</item>
+    </plurals>
+    <plurals name="count_mult_mode">
+        <item quantity="other">%d אנשי קשר נבחרו</item>
+        <item quantity="one">איש קשר נבחר</item>
+    </plurals>
+</resources>

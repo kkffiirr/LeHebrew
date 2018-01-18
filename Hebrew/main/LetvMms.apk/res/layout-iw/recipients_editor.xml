@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/leui_recipients_actionbar" android:background="@drawable/conversation_top_bar_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:leui="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageButton android:id="@id/compose_back" android:background="@drawable/compose_back_ripple" android:layout_width="56.0dip" android:layout_height="40.0dip" android:src="@drawable/le_compose_top_btn_icon_reback" android:rotation="180" android:scaleType="center" />
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/add_recipients_parent" android:layout_width="56.0dip" android:layout_height="wrap_content" android:layout_alignParentLeft="true">
+            <ImageButton android:id="@id/add_recipients" android:background="@drawable/compose_add_recipients_ripple" android:layout_width="fill_parent" android:layout_height="40.0dip" android:src="@drawable/svg_add_contacts" android:scaleType="center" />
+            <TextView android:textSize="18.0sp" android:textColor="@color/le_msg_recipient_text_color" android:id="@id/repients_count" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/editor_parent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/add_recipients_parent" android:layout_toRightOf="@id/compose_back">
+            <TextView android:textSize="16.0sp" android:textColor="@color/edit_mms_text_hint_color" android:layout_gravity="center_vertical" android:paddingLeft="8.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/to_hint" />
+            <ScrollView android:scrollbars="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginBottom="1.0dip" android:layout_weight="1.0">
+                <com.letv.leui.mms.view.LeUiRecipientsEditor android:id="@id/recipients_editor" android:background="@null" android:paddingLeft="10.0dip" android:paddingRight="10.0dip" android:focusable="false" android:longClickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" leui:leHorizontalSpacing="5.0dip" leui:leVerticalSpacing="@dimen/le_recipient_editor_vertical_spacing" />
+            </ScrollView>
+        </LinearLayout>
+    </RelativeLayout>
+    <View android:id="@id/divider" android:background="@color/le_msg_compose_divider_view" android:layout_width="fill_parent" android:layout_height="1.0px" />
+    <com.letv.shared.widget.LeFlowLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="@id/suggest_contacts" android:background="@null" android:layout_width="fill_parent" android:layout_height="wrap_content" leui:leMaxLineNum="2" />
+</LinearLayout>
