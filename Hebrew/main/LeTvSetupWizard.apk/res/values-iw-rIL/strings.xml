@@ -241,9 +241,6 @@
     <string name="le_share_give">"傳送 給"</string>
     <string name="le_share_to">"傳送 至"</string>
     <string name="app_name">"שלישי"</string>
-    <string name="blue_value">"\ # FF1D87E4"</string>
-    <string name="config_voiceAssistClassName">"com.letv.android.voiceassistant.VoiceAssistant"</string>
-    <string name="config_voiceAssistPackageName">"com.letv.android.voice עמיד"</string>
     <string name="le_dialpad_select_sim_card_sim1">"סים 1"</string>
     <string name="le_dialpad_select_sim_card_sim2">"סים 2"</string>
     <string name="lepinned">"הוצמד"</string>
