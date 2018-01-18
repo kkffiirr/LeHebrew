@@ -1,0 +1,515 @@
+<resources>
+    <string-array name="alarm_set">
+        <item>"מצלצל בתוך פחות מדקה"</item>
+        <item>"צלצל ב- %1$s"</item>
+        <item>"צלצל ב- %2$s"</item>
+        <item>"צלצל ב- %1$s %2$s"</item>
+        <item>"צלצל ב- %3$s"</item>
+        <item>"צלצל ב- %1$s %3$s"</item>
+        <item>"צלצל ב- %2$s %3$s"</item>
+        <item>"צלצל ב- %1$s %2$s %3$s"</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>"5 דקות"</item>
+        <item>"10 דקות"</item>
+        <item>"15 דקות"</item>
+        <item>"20 דקות"</item>
+        <item>"25 דקות"</item>
+        <item>"דקה"</item>
+        <item>"לעולם לא"</item>
+    </string-array>
+    <string-array name="cities_names">
+        <item>"אביג'אן"</item>
+        <item>"אקרה"</item>
+        <item>"אדיס אבבה"</item>
+        <item>"אלג'יר"</item>
+        <item>"בלנטייר"</item>
+        <item>"ברזוויל"</item>
+        <item>"קהיר"</item>
+        <item>"קזבלנקה"</item>
+        <item>"קונאקרי"</item>
+        <item>"דקר"</item>
+        <item>"דאר א-סלאם"</item>
+        <item>"ג'יבוטי"</item>
+        <item>"פריאון"</item>
+        <item>"גאבורון"</item>
+        <item>"הררה"</item>
+        <item>"יוהנסבורג"</item>
+        <item>"קמפאלה"</item>
+        <item>"חרטום"</item>
+        <item>"קיגאלי"</item>
+        <item>"קינשאסה"</item>
+        <item>"לאגוס"</item>
+        <item>"מאסרו"</item>
+        <item>"מוגדישו"</item>
+        <item>"ניירובי"</item>
+        <item>"סאו טומה"</item>
+        <item>"טימבוקטו"</item>
+        <item>"טריפולי"</item>
+        <item>"תוניסיה"</item>
+        <item>"מַעֲגָן"</item>
+        <item>"מנדוזה"</item>
+        <item>"ארובה"</item>
+        <item>"אסונסיון"</item>
+        <item>"ברבדוס"</item>
+        <item>"בליז"</item>
+        <item>"בוגוטה"</item>
+        <item>"בואנוס איירס"</item>
+        <item>"קנקון"</item>
+        <item>"קראקס"</item>
+        <item>"איי קיימן"</item>
+        <item>"שיקגו"</item>
+        <item>"קוסטה ריקה"</item>
+        <item>"קוראסאו"</item>
+        <item>"דוסון קריק"</item>
+        <item>"דנבר"</item>
+        <item>"דטרויט"</item>
+        <item>"דומיניקה"</item>
+        <item>"אדמונטון"</item>
+        <item>"אל סלבדור"</item>
+        <item>"פורטלזה"</item>
+        <item>"גרנד טורקי"</item>
+        <item>"גרנדה"</item>
+        <item>"גואטמלה"</item>
+        <item>"גיאנה"</item>
+        <item>"הליפקס"</item>
+        <item>"הוואנה"</item>
+        <item>"אינדיאנפוליס"</item>
+        <item>"נוקס"</item>
+        <item>"מרנגו"</item>
+        <item>"פטרבורג"</item>
+        <item>"טל סיטי"</item>
+        <item>"ויווי"</item>
+        <item>"ונסן"</item>
+        <item>"ווינאמאק"</item>
+        <item>"קינגסטון"</item>
+        <item>"לה פז"</item>
+        <item>"לימה"</item>
+        <item>"לוס אנג'לס"</item>
+        <item>"לואיוויל"</item>
+        <item>"מנגואה"</item>
+        <item>"מרטיניק"</item>
+        <item>"מנדוזה"</item>
+        <item>"מטלאקאטלה"</item>
+        <item>"העיר מקסיקו"</item>
+        <item>"מונטריי"</item>
+        <item>"מונטווידאו"</item>
+        <item>"מונטריאול"</item>
+        <item>"נסאו"</item>
+        <item>"העיר ניו יורק"</item>
+        <item>"ביולה"</item>
+        <item>"מֶרְכָּז"</item>
+        <item>"סאלם החדש"</item>
+        <item>"פנמה"</item>
+        <item>"פניקס"</item>
+        <item>"נמל ספרד"</item>
+        <item>"פורט או פרינס"</item>
+        <item>"פוארטו ריקו"</item>
+        <item>"סנטו דומינגו"</item>
+        <item>"סאו פאולו"</item>
+        <item>"סנט ג'ון"</item>
+        <item>"סנט קיטס"</item>
+        <item>"סנט לוסיה"</item>
+        <item>"סנט תומאס"</item>
+        <item>"טיחואנה"</item>
+        <item>"טורונטו"</item>
+        <item>"ונקובר"</item>
+        <item>"ויניפג"</item>
+        <item>"אנטארקטיקה"</item>
+        <item>"לונגיירביאן"</item>
+        <item>"אלמאטי"</item>
+        <item>"עמאן"</item>
+        <item>"אנאדיר"</item>
+        <item>"אקטאו"</item>
+        <item>"בגדאד"</item>
+        <item>"בחריין"</item>
+        <item>"באקו"</item>
+        <item>"בנגקוק"</item>
+        <item>"ביירות"</item>
+        <item>"קולקטה"</item>
+        <item>"דמשק"</item>
+        <item>"דאקה"</item>
+        <item>"דובאי"</item>
+        <item>"עַזָה"</item>
+        <item>"חברון"</item>
+        <item>"הו צ'י מין סיטי"</item>
+        <item>"הונג קונג"</item>
+        <item>"איסטנבול"</item>
+        <item>"ג 'קרטה"</item>
+        <item>"ירושלים"</item>
+        <item>"קאבול"</item>
+        <item>"קראצ'י"</item>
+        <item>"קטמנדו"</item>
+        <item>"קואלה לומפור"</item>
+        <item>"כווית"</item>
+        <item>"מקאו"</item>
+        <item>"מנילה"</item>
+        <item>"מוּסקָט"</item>
+        <item>"פנום פן"</item>
+        <item>"פיונגיאנג"</item>
+        <item>"קטאר"</item>
+        <item>"יאנגון"</item>
+        <item>"ריאד"</item>
+        <item>"סייגון"</item>
+        <item>"סיאול"</item>
+        <item>"שנחאי"</item>
+        <item>"סינגפור"</item>
+        <item>"טייפה"</item>
+        <item>"טהראן"</item>
+        <item>"תל אביב"</item>
+        <item>"טוקיו"</item>
+        <item>"אולאנבאטאר"</item>
+        <item>"ברמודה"</item>
+        <item>"האיים הקנריים"</item>
+        <item>"קייפ ורדה"</item>
+        <item>"רייקיאוויק"</item>
+        <item>"סטנלי"</item>
+        <item>"אדלייד"</item>
+        <item>"בריסביין"</item>
+        <item>"קנברה"</item>
+        <item>"דרווין"</item>
+        <item>"מלבורן"</item>
+        <item>"ניו סאות 'ויילס"</item>
+        <item>"פרת '"</item>
+        <item>"קווינסלנד"</item>
+        <item>"סידני"</item>
+        <item>"ויקטוריה"</item>
+        <item>"ניופאונדלנד"</item>
+        <item>"ססקצ'ואן"</item>
+        <item>"אי הפסחא"</item>
+        <item>"אמסטרדם"</item>
+        <item>"אנדורה"</item>
+        <item>"אַתוּנָה"</item>
+        <item>"בלפסט"</item>
+        <item>"בלגרד"</item>
+        <item>"ברלין"</item>
+        <item>"ברטיסלבה"</item>
+        <item>"בריסל"</item>
+        <item>"בוקרשט"</item>
+        <item>"בודפשט"</item>
+        <item>"קישינב"</item>
+        <item>"קופנהגן"</item>
+        <item>"דבלין"</item>
+        <item>"גיברלטר"</item>
+        <item>"הלסינקי"</item>
+        <item>"האי מאן"</item>
+        <item>"איסטנבול"</item>
+        <item>"קייב"</item>
+        <item>"ליסבון"</item>
+        <item>"לונדון"</item>
+        <item>"לוקסמבורג"</item>
+        <item>"מדריד"</item>
+        <item>"מלטה"</item>
+        <item>"מינסק"</item>
+        <item>"מונקו"</item>
+        <item>"מוסקווה"</item>
+        <item>"אוסלו"</item>
+        <item>"פריז"</item>
+        <item>"פראג"</item>
+        <item>"ריגה"</item>
+        <item>"רומא"</item>
+        <item>"סן מרינו"</item>
+        <item>"סרייבו"</item>
+        <item>"סימפרופול"</item>
+        <item>"סקופיה"</item>
+        <item>"סופיה"</item>
+        <item>"שטוקהולם"</item>
+        <item>"טאלין"</item>
+        <item>"הוותיקן"</item>
+        <item>"וינה"</item>
+        <item>"וילנה"</item>
+        <item>"ורשה"</item>
+        <item>"זאגרב"</item>
+        <item>"ציריך"</item>
+        <item>"אנטננריבו"</item>
+        <item>"המלדיביים"</item>
+        <item>"מאוריציוס"</item>
+        <item>"אוקלנד"</item>
+        <item>"פיג'י"</item>
+        <item>"גואם"</item>
+        <item>"הונולולו"</item>
+        <item>"אי חג המולד"</item>
+        <item>"נומה"</item>
+        <item>"סמואה"</item>
+        <item>"טהיטי"</item>
+        <item>"אנטיגואה"</item>
+        <item>"אוסטין"</item>
+        <item>"בוסטון"</item>
+        <item>"קלגרי"</item>
+        <item>"קולומבוס"</item>
+        <item>"דאלאס"</item>
+        <item>"נוקסוויל"</item>
+        <item>"ממפיס"</item>
+        <item>"מיאמי"</item>
+        <item>"מיניאפוליס"</item>
+        <item>"אוטווה"</item>
+        <item>"פילדלפיה"</item>
+        <item>"פורטלנד"</item>
+        <item>"סן דייגו"</item>
+        <item>"סן פרנסיסקו"</item>
+        <item>"סולט לייק סיטי"</item>
+        <item>"סאן חוזה"</item>
+        <item>"סן סלבדור"</item>
+        <item>"סיאטל"</item>
+        <item>"סנט לואיס"</item>
+        <item>"וושינגטון"</item>
+        <item>"יוסטון"</item>
+        <item>"סן אנטוניו"</item>
+        <item>"ג'קסונוויל"</item>
+        <item>"בולטימור"</item>
+        <item>"נאשוויל"</item>
+        <item>"מילווקי"</item>
+        <item>"אוקלהומה"</item>
+        <item>"לאס וגאס"</item>
+        <item>"אלבוקרקי"</item>
+        <item>"טוסון"</item>
+        <item>"סקרמנטו"</item>
+        <item>"אטלנטה"</item>
+        <item>"קליבלנד"</item>
+        <item>"ניו אורלינס"</item>
+        <item>"טמפה"</item>
+        <item>"פיטסבורג"</item>
+        <item>"סינסינטי"</item>
+        <item>"מאונטיין ויו"</item>
+        <item>"רינו"</item>
+        <item>"אבן שחורה"</item>
+        <item>"דוחא"</item>
+        <item>"בייג'ינג"</item>
+        <item>"בומביי"</item>
+        <item>"דלהי"</item>
+        <item>"אוסקה"</item>
+        <item>"לאהור"</item>
+        <item>"סאנה"</item>
+        <item>"ברצלונה"</item>
+        <item>"מינכן"</item>
+        <item>"מילאנו"</item>
+        <item>"פרנקפורט"</item>
+        <item>"האנוי"</item>
+        <item>"אנקרה"</item>
+        <item>"בנגלור"</item>
+        <item>"ברזיליה"</item>
+        <item>"קייפטאון"</item>
+        <item>"איסלמבאד"</item>
+        <item>"ריו דה ז'נרו"</item>
+        <item>"אן ארבור"</item>
+        <item>"סלע"</item>
+        <item>"קיימברידג '"</item>
+        <item>"קירקלנד"</item>
+        <item>"מדיסון"</item>
+        <item>"גואנגזו"</item>
+        <item>"היידראבאד"</item>
+        <item>"לנוח"</item>
+        <item>"בלו הוריזונטה"</item>
+        <item>"סנטיאגו"</item>
+        <item>"מונרוביה"</item>
+        <item>"קולומבו"</item>
+        <item>"צ'יוואווה"</item>
+        <item>"אל סלבדור"</item>
+        <item>"גורגאון"</item>
+        <item>"מנצ'סטר"</item>
+        <item>"קייב"</item>
+        <item>"סנט פטרסבורג"</item>
+        <item>"קרקוב"</item>
+        <item>"ורוצלב"</item>
+        <item>"המבורג"</item>
+        <item>"אולו"</item>
+        <item>"חיפה"</item>
+        <item>"סן חואן"</item>
+        <item>"טגוסיגלפה"</item>
+        <item>"פרמריבו"</item>
+        <item>"קיטו"</item>
+        <item>"איי מרשל"</item>
+        <item>"איי מידוויי"</item>
+        <item>"מנאוס"</item>
+        <item>"גרינלנד"</item>
+        <item>"דרום ג'ורג'יה"</item>
+        <item>"איי האיים"</item>
+        <item>"ווינדהוק"</item>
+        <item>"טביליסי"</item>
+        <item>"ירבאן"</item>
+        <item>"אוראלסק"</item>
+        <item>"יקטרינבורג"</item>
+        <item>"קרסנויארסק"</item>
+        <item>"אירקוטסק"</item>
+        <item>"יאקוטסק"</item>
+        <item>"הובארט"</item>
+        <item>"ולדיווסטוק"</item>
+        <item>"מגדן"</item>
+        <item>"טונגה"</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>"אנלוגי"</item>
+        <item>"דִיגִיטָלי"</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>"מהר כמו ברק!"</item>
+        <item>"ליהנות ההישגים שלך מדהים!"</item>
+        <item>"אתה מהיר יותר מאשר מכונה!"</item>
+        <item>"בלתי יאומן!"</item>
+        <item>"אתה תותח."</item>
+        <item>"אתה רק טשטוש!"</item>
+        <item>"שוב!"</item>
+        <item>"קל."</item>
+        <item>"אתה טס!"</item>
+        <item>"מהר יותר ממהירות האור!"</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>"פחות מדקה אחת"</item>
+        <item>"נותרה %1$s"</item>
+        <item>"נותרו %2$s"</item>
+        <item>"נותרה %1$s %2$s"</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>"איי מרשל"</item>
+        <item>"איי מידוויי"</item>
+        <item>"הוואי"</item>
+        <item>"אלסקה"</item>
+        <item>"שעון החוף המערבי"</item>
+        <item>"טיחואנה"</item>
+        <item>"אריזונה"</item>
+        <item>"צ'יוואווה"</item>
+        <item>"זמן ההר"</item>
+        <item>"מרכז אמריקה"</item>
+        <item>"זמן מרכזי"</item>
+        <item>"העיר מקסיקו"</item>
+        <item>"ססקצ'ואן"</item>
+        <item>"בוגוטה"</item>
+        <item>"שעון מזרח"</item>
+        <item>"ונצואלה"</item>
+        <item>"שעון האוקיינוס ​​האטלנטי (ברבדוס)"</item>
+        <item>"שעון האוקיינוס ​​האטלנטי (קנדה)"</item>
+        <item>"מנאוס"</item>
+        <item>"סנטיאגו"</item>
+        <item>"ניופאונדלנד"</item>
+        <item>"ברזיליה"</item>
+        <item>"בואנוס איירס"</item>
+        <item>"גרינלנד"</item>
+        <item>"מונטווידאו"</item>
+        <item>"סנטרל אטלנטיק"</item>
+        <item>"איי האיים"</item>
+        <item>"איי קייפ ורדה"</item>
+        <item>"קזבלנקה"</item>
+        <item>"לונדון, דבלין"</item>
+        <item>"אמסטרדם, ברלין"</item>
+        <item>"בלגרד"</item>
+        <item>"בריסל"</item>
+        <item>"סרייבו"</item>
+        <item>"ווינדהוק"</item>
+        <item>"זמן מערב אפריקה"</item>
+        <item>"עמאן, ירדן"</item>
+        <item>"אתונה, איסטנבול"</item>
+        <item>"ביירות, לבנון"</item>
+        <item>"קהיר"</item>
+        <item>"הלסינקי"</item>
+        <item>"ירושלים"</item>
+        <item>"מינסק"</item>
+        <item>"הררה"</item>
+        <item>"בגדאד"</item>
+        <item>"מוסקווה"</item>
+        <item>"כווית"</item>
+        <item>"ניירובי"</item>
+        <item>"טהראן"</item>
+        <item>"באקו"</item>
+        <item>"טביליסי"</item>
+        <item>"ירבאן"</item>
+        <item>"דובאי"</item>
+        <item>"קאבול"</item>
+        <item>"איסלמבאד, קראצ'י"</item>
+        <item>"אוראלסק"</item>
+        <item>"יקטרינבורג"</item>
+        <item>"כלכותה"</item>
+        <item>"סרי לנקה"</item>
+        <item>"קטמנדו"</item>
+        <item>"אסטאנה"</item>
+        <item>"יאנגון"</item>
+        <item>"קרסנויארסק"</item>
+        <item>"בנגקוק"</item>
+        <item>"בייג'ינג"</item>
+        <item>"הונג קונג"</item>
+        <item>"אירקוטסק"</item>
+        <item>"קואלה לומפור"</item>
+        <item>"פרת '"</item>
+        <item>"טייפה"</item>
+        <item>"סיאול"</item>
+        <item>"טוקיו, אוסקה"</item>
+        <item>"יאקוטסק"</item>
+        <item>"אדלייד"</item>
+        <item>"דרווין"</item>
+        <item>"בריסביין"</item>
+        <item>"הובארט"</item>
+        <item>"סידני, קנברה"</item>
+        <item>"ולדיווסטוק"</item>
+        <item>"גואם"</item>
+        <item>"מגדן"</item>
+        <item>"אוקלנד"</item>
+        <item>"פיג'י"</item>
+        <item>"טונגה"</item>
+        <item>"ג 'קרטה"</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>"נִמנוּם"</item>
+        <item>"לבטל"</item>
+        <item>"אף אחד"</item>
+    </string-array>
+    <string-array name="alarm_snooze_entries">
+        <item>"נודניק למשך 3 דקות"</item>
+        <item>"נודניק במשך 5 דקות"</item>
+        <item>"נודניק למשך 8 דקות"</item>
+        <item>"נודניק במשך 10 דקות"</item>
+    </string-array>
+    <string-array name="day_compare">
+        <item>"אתמול"</item>
+        <item>"היום"</item>
+        <item>"מָחָר"</item>
+    </string-array>
+    <string-array name="notification_timer_title">
+        <item>"שָׁעוֹן עֶצֶר"</item>
+        <item>"טיימר %s"</item>
+    </string-array>
+    <string-array formatted="false" name="time_compare">
+        <item>"%s"</item>
+        <item>"%s , %d דקות קדימה"</item>
+        <item>"%s , %d דקות קדימה"</item>
+        <item>"%s , %d שעה קדימה"</item>
+        <item>"%s , %d שעות קדימה"</item>
+        <item>"%s , %d שעה %d דקות קדימה"</item>
+        <item>"%s , %d שעה %d דקות קדימה"</item>
+        <item>"%s , %d שעות %d דקות קדימה"</item>
+        <item>"%s , %d %d דקות קדימה"</item>
+        <item>"%s , %d דקות מאחור"</item>
+        <item>"%s , %d דקות אחורה"</item>
+        <item>"%s , שעה %d מאחורה"</item>
+        <item>"%s , %d שעות אחורה"</item>
+        <item>"%s , %d שעה %d דקות מאחורי"</item>
+        <item>"%s , %d שעה %d דקות אחורה"</item>
+        <item>"%s , %d שעות %d דקות מאחורי"</item>
+        <item>"%s , %d שעות %d דקות אחורה"</item>
+    </string-array>
+    <string-array name="timer_alert_text">
+        <item>"הזמן עבר!"</item>
+        <item>"טיימר %s הסתיים"</item>
+    </string-array>
+    <string-array name="timer_reminders">
+        <item>"רטט"</item>
+        <item>"צלצול"</item>
+        <item>"אין תזכורת"</item>
+    </string-array>
+    <string-array name="clock_style_values">
+        <item>"אנלוגי"</item>
+        <item>"דיגיטלי"</item>
+    </string-array>
+    <string-array name="le_months_en">
+        <item>"ינו"</item>
+        <item>"פבר"</item>
+        <item>"מרץ"</item>
+        <item>"אפר"</item>
+        <item>"מאי"</item>
+        <item>"יוני"</item>
+        <item>"יולי"</item>
+        <item>"אוג"</item>
+        <item>"ספט"</item>
+        <item>"אוק"</item>
+        <item>"נוב"</item>
+        <item>"דצמ"</item>
+    </string-array>
+    </resources>
