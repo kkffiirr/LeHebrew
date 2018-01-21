@@ -1,0 +1,217 @@
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">"למחוק את הפריטים שנבחרו?"</item>
+        <item quantity="one">"למחוק את הפריט שנבחר?"</item>
+    </plurals>
+    <plurals name="le_sticker_count_str">
+        <item quantity="other">"סה\"כ %1$d פריטים"</item>
+        <item quantity="zero">"סה\"כ %1$d פריטים"</item>
+        <item quantity="one">"סה\"כ פריט %1$d"</item>
+    </plurals>
+    <plurals name="number_of_albums_deleted">
+        <item quantity="other">"מחק %1$d אלבומים"</item>
+        <item quantity="zero">"מחק %1$d אלבומים"</item>
+        <item quantity="one">"מחק אלבום %1$d"</item>
+    </plurals>
+    <plurals name="number_of_images_deleted">
+        <item quantity="other">"מחק תמונות %1$d"</item>
+        <item quantity="zero">"מחק תמונות %1$d"</item>
+        <item quantity="one">"מחק תמונה %1$d"</item>
+    </plurals>
+    <plurals name="number_of_images_deleted_have_fav">
+        <item quantity="other">"מחק תמונות %1$d"</item>
+        <item quantity="zero">"מחק תמונות %1$d"</item>
+        <item quantity="one">"מחק תמונה %1$d"</item>
+    </plurals>
+    <plurals name="number_of_images_deleted_in_fav">
+        <item quantity="other">"מחיקת תמונות מתיקיית המועדפים שלך תמחק גם את התמונה המקורית. אם ברצונך להסיר תמונה מהמועדפים שלך, השתמש ב-\"הסר ממועדפים\". האם אתה בטוח שברצונך למחוק תמונות של %1$d ?"</item>
+        <item quantity="zero">"מחיקת תמונות מתיקיית המועדפים שלך תמחק גם את התמונה המקורית. אם ברצונך להסיר תמונה מהמועדפים שלך, השתמש ב-\"הסר ממועדפים\". האם אתה בטוח שברצונך למחוק תמונות של %1$d ?"</item>
+        <item quantity="one">"מחיקת תמונות מתיקיית המועדפים שלך תמחק גם את התמונה המקורית. אם ברצונך להסיר תמונה רק מהמועדפים שלך, השתמש ב- \"הסר ממועדפים\". האם אתה בטוח שברצונך למחוק את התמונה %1$d ?"</item>
+    </plurals>
+    <plurals name="number_of_items_deleted">
+        <item quantity="other">"מחק %1$d פריטים"</item>
+        <item quantity="zero">"מחק %1$d פריטים"</item>
+        <item quantity="one">"מחק פריט %1$d"</item>
+    </plurals>
+    <plurals name="number_of_items_deleted_have_fav">
+        <item quantity="other">"מחק %1$d פריטים"</item>
+        <item quantity="zero">"מחק %1$d פריטים"</item>
+        <item quantity="one">"מחק פריט %1$d"</item>
+    </plurals>
+    <plurals name="number_of_items_deleted_in_fav">
+        <item quantity="other">"מחיקת תמונות או סרטונים מתיקיית המועדפים שלך תמחק גם את הקובץ המקורי. אם ברצונך להסיר תמונה או סרטון מהמועדפים שלך, השתמש ב- \"הסר ממועדפים\". האם אתה בטוח שאתה רוצה למחוק %1$d פריטים?"</item>
+        <item quantity="zero">"מחיקת תמונות או סרטונים מתיקיית המועדפים שלך תמחק גם את הקובץ המקורי. אם ברצונך להסיר תמונה או סרטון מהמועדפים שלך, השתמש ב- \"הסר ממועדפים\". האם אתה בטוח שאתה רוצה למחוק %1$d פריטים?"</item>
+        <item quantity="one">"מחיקת תמונות או סרטונים מתיקיית המועדפים שלך תמחק גם את הקובץ המקורי. אם ברצונך להסיר תמונה או סרטון מהמועדפים שלך, השתמש ב- \"הסר ממועדפים\". האם אתה בטוח שברצונך למחוק את הפריט %1$d ?"</item>
+    </plurals>
+    <plurals name="number_of_items_min_select">
+        <item quantity="other">"בחר לפחות %1$d תמונות"</item>
+        <item quantity="zero">"בחר לפחות %1$d תמונות"</item>
+        <item quantity="one">"בחר לפחות %1$d תמונה"</item>
+    </plurals>
+    <plurals name="number_of_items_min_selected">
+        <item quantity="other">"נבחרו %1$d/%2$d פריטים"</item>
+        <item quantity="zero">"נבחרו %1$d/%2$d פריטים"</item>
+        <item quantity="one">"נבחרה פריט %1$d/%2$d"</item>
+    </plurals>
+    <plurals name="number_of_items_perm_delete">
+        <item quantity="other">"מחק לצמיתות את הפריטים %1$d"</item>
+        <item quantity="zero">"מחק לצמיתות את הפריטים %1$d"</item>
+        <item quantity="one">"מחק את הפריט %1$d לצמיתות"</item>
+    </plurals>
+    <plurals name="number_of_items_private">
+        <item quantity="other">"%1$d פריטים המוגדרים כפרטיות"</item>
+        <item quantity="zero">"%1$d פריטים המוגדרים כפרטיות"</item>
+        <item quantity="one">"פריט %1$d מוגדר כפרטיות"</item>
+    </plurals>
+    <plurals name="number_of_items_remote_tag">
+        <item quantity="other">"%1$d פריטים הוסרו"</item>
+        <item quantity="zero">"%1$d פריטים הוסרו"</item>
+        <item quantity="one">"פריט %1$d הוסר"</item>
+    </plurals>
+    <plurals name="number_of_items_restore">
+        <item quantity="other">"%1$d פריטים שוחזרו"</item>
+        <item quantity="zero">"%1$d פריטים שוחזרו"</item>
+        <item quantity="one">"%1$d פריט שוחזר"</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">"נבחרו %1$d פריטים"</item>
+        <item quantity="zero">"נבחרו %1$d פריטים"</item>
+        <item quantity="one">"%1$d item selected"</item>
+    </plurals>
+    <plurals name="number_of_items_trash">
+        <item quantity="other">"מחק %1$d פריטים"</item>
+        <item quantity="zero">"מחק %1$d פריטים"</item>
+        <item quantity="one">"מחק פריט %1$d"</item>
+    </plurals>
+    <plurals name="number_of_items_unprivate">
+        <item quantity="other">"%1$d פריטים שוחזרו"</item>
+        <item quantity="zero">"%1$d פריטים שוחזרו"</item>
+        <item quantity="one">"%1$d פריט שוחזר"</item>
+    </plurals>
+    <plurals name="number_of_videos_deleted">
+        <item quantity="other">"מחק סרטונים של %1$d"</item>
+        <item quantity="zero">"מחק סרטונים של %1$d"</item>
+        <item quantity="one">"מחק סרטון %1$d"</item>
+    </plurals>
+    <plurals name="number_of_videos_deleted_have_fav">
+        <item quantity="other">"מחק סרטונים של %1$d"</item>
+        <item quantity="zero">"מחק סרטונים של %1$d"</item>
+        <item quantity="one">"מחק סרטון %1$d"</item>
+    </plurals>
+    <plurals name="number_of_videos_deleted_in_fav">
+        <item quantity="other">"מחיקת סרטונים מתיקיית המועדפים שלך תמחק גם את הסרטון המקורי. אם ברצונך להסיר סרטון מהמועדפים שלך, השתמש ב-\"הסר ממועדפים\". האם אתה בטוח שברצונך למחוק סרטונים של %1$d ?"</item>
+        <item quantity="zero">"מחיקת סרטונים מתיקיית המועדפים שלך תמחק גם את הסרטון המקורי. אם ברצונך להסיר סרטון מהמועדפים שלך, השתמש ב-\"הסר ממועדפים\". האם אתה בטוח שברצונך למחוק סרטונים של %1$d ?"</item>
+        <item quantity="one">"מחיקת סרטונים מתיקיית המועדפים שלך תמחק גם את הסרטון המקורי. אם ברצונך להסיר סרטון מהמועדפים שלך, השתמש ב-\"הסר ממועדפים\". האם אתה בטוח שברצונך למחוק סרטון %1$d ?"</item>
+    </plurals>
+    <plurals name="number_of_remove_pure_remote_album">
+        <item quantity="other">"הסר %1$d פריטים"</item>
+        <item quantity="zero">"הסר %1$d פריטים"</item>
+        <item quantity="one">"הסר פריט %1$d"</item>
+    </plurals>
+    <plurals name="number_of_pictures_and_videos_sync">
+        <item quantity="other">"מסנכרן %1$d תמונות, %2$d סרטונים ( %3$d/%4$d )"</item>
+        <item quantity="zero">"מסנכרן %1$d תמונות, %2$d סרטונים ( %3$d/%4$d )"</item>
+        <item quantity="one">"מסנכרן %1$d תמונה, סרטון %2$d ( %3$d/%4$d )"</item>
+    </plurals>
+    <plurals name="number_of_pictures_and_videos_total">
+        <item quantity="other">"%1$d תמונות של %2$d סרטונים"</item>
+        <item quantity="zero">"%1$d תמונות של %2$d סרטונים"</item>
+        <item quantity="one">"סרטון של %1$d תמונה %2$d"</item>
+    </plurals>
+    <plurals name="number_of_pictures_sync">
+        <item quantity="other">"מסנכרן %1$d תמונות ( %2$d/%3$d )"</item>
+        <item quantity="zero">"מסנכרן %1$d תמונות ( %2$d/%3$d )"</item>
+        <item quantity="one">"מסנכרן %1$d תמונה ( %2$d/%3$d )"</item>
+    </plurals>
+    <plurals name="number_of_pictures_total">
+        <item quantity="other">"%1$d תמונות"</item>
+        <item quantity="zero">"%1$d תמונות"</item>
+        <item quantity="one">"%1$d"</item>
+    </plurals>
+    <plurals name="number_of_videos_sync">
+        <item quantity="other">"מסנכרן %1$d סרטונים ( %2$d/%3$d )"</item>
+        <item quantity="zero">"מסנכרן %1$d סרטונים ( %2$d/%3$d )"</item>
+        <item quantity="one">"מסנכרן %1$d סרטון ( %2$d/%3$d )"</item>
+    </plurals>
+    <plurals name="number_of_videos_total">
+        <item quantity="other">"%1$d סרטונים"</item>
+        <item quantity="zero">"%1$d סרטונים"</item>
+        <item quantity="one">"סרטון %1$d"</item>
+    </plurals>
+    <plurals name="le_pictures_and_videos_upload_finish">
+        <item quantity="other">"%1$d תמונות ו- %2$d סרטונים סונכרנו"</item>
+        <item quantity="zero">"%1$d תמונות ו- %2$d סרטונים סונכרנו"</item>
+        <item quantity="one">"%1$d תמונה ו- %2$d וידאו סונכרנו"</item>
+    </plurals>
+    <plurals name="le_pictures_and_videos_waiting_for_upload">
+        <item quantity="other">"%1$d תמונות או סרטונים שממתינים לטעינה"</item>
+        <item quantity="zero">"%1$d תמונות או סרטונים שממתינים לטעינה"</item>
+        <item quantity="one">"%1$d תמונה או סרטון שממתינים לטעינה"</item>
+    </plurals>
+    <plurals name="le_pictures_upload_finish">
+        <item quantity="other">"%1$d תמונות סונכרנו"</item>
+        <item quantity="zero">"%1$d תמונות סונכרנו"</item>
+        <item quantity="one">"%1$d סונכרנה"</item>
+    </plurals>
+    <plurals name="le_pictures_waiting_for_download">
+        <item quantity="other">"%1$d תמונות ממתינות להורדה"</item>
+        <item quantity="zero">"%1$d תמונות ממתינות להורדה"</item>
+        <item quantity="one">"%1$d ממתינה להורדה"</item>
+    </plurals>
+    <plurals name="le_smart_sync_notification_title_strings">
+        <item quantity="other">"%1$d אלבומים:"</item>
+        <item quantity="zero">"%1$d אלבומים:"</item>
+        <item quantity="one">"%1$d אלבום:"</item>
+    </plurals>
+    <plurals name="le_sync_state_upload_error">
+        <item quantity="other">"טעינה של %1$d תמונות או סרטונים נכשלה. ננסה שוב מאוחר יותר."</item>
+        <item quantity="zero">"טעינה של %1$d תמונות או סרטונים נכשלה. ננסה שוב מאוחר יותר."</item>
+        <item quantity="one">"טעינת התמונה או הסרטון של %1$d נכשלה. ננסה שוב מאוחר יותר."</item>
+    </plurals>
+    <plurals name="le_sync_state_upload_net_error">
+        <item quantity="other">"%1$d תמונות או סרטונים יועלו דרך Wi-Fi או רשת לנייד."</item>
+        <item quantity="zero">"%1$d תמונות או סרטונים יועלו דרך Wi-Fi או רשת לנייד."</item>
+        <item quantity="one">"%1$d התמונה או הסרטון יועלו דרך Wi-Fi או רשת לנייד."</item>
+    </plurals>
+    <plurals name="le_sync_state_upload_power_error">
+        <item quantity="other">"%1$d תמונות או סרטונים יועלו כאשר קיבולת הסוללה עולה על %2$s או בעת הטעינה."</item>
+        <item quantity="zero">"%1$d תמונות או סרטונים יועלו כאשר קיבולת הסוללה עולה על %2$s או בעת הטעינה."</item>
+        <item quantity="one">"%1$d התמונה או הסרטון יועלו כאשר קיבולת הסוללה עולה על %2$s או בעת הטעינה."</item>
+    </plurals>
+    <plurals name="le_sync_state_upload_wifi_error">
+        <item quantity="other">"%1$d תמונות או סרטונים יועלו כאשר Wi-Fi זמין."</item>
+        <item quantity="zero">"%1$d תמונות או סרטונים יועלו כאשר Wi-Fi זמין."</item>
+        <item quantity="one">"%1$d התמונה או הסרטון יועלו כאשר Wi-Fi זמין."</item>
+    </plurals>
+    <plurals name="le_sync_state_wait_for_upload">
+        <item quantity="other">"%1$d תמונות או סרטונים יועלו"</item>
+        <item quantity="zero">"%1$d תמונות או סרטונים יועלו"</item>
+        <item quantity="one">"%1$d התמונה הסרטון יועלו"</item>
+    </plurals>
+    <plurals name="le_videos_upload_finish">
+        <item quantity="other">"%1$d סרטונים מסונכרנים"</item>
+        <item quantity="zero">"%1$d סרטונים מסונכרנים"</item>
+        <item quantity="one">"%1$d הסרטון סונכרן"</item>
+    </plurals>
+    <plurals name="number_of_media_uploading">
+        <item quantity="other">"מעלה את %1$d/%2$d"</item>
+        <item quantity="zero">"מעלה את %1$d/%2$d"</item>
+        <item quantity="one">"מעלה את %1$d/%2$d"</item>
+    </plurals>
+    <plurals name="pattern_day">
+        <item quantity="other">" ימים "</item>
+        <item quantity="one">" יום "</item>
+    </plurals>
+    <plurals name="pattern_hour">
+        <item quantity="other">" שעות "</item>
+        <item quantity="one">" שעה "</item>
+    </plurals>
+    <plurals name="pattern_minute">
+        <item quantity="other">" דקות "</item>
+        <item quantity="one">" דקה "</item>
+    </plurals>
+    <plurals name="pattern_second">
+        <item quantity="other">" שניות "</item>
+        <item quantity="one">" שניה "</item>
+    </plurals>
+</resources>
