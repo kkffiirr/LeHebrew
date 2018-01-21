@@ -165,7 +165,12 @@
     <string name="navigation_none">"אף אחד"</string>
     <string name="leui_main_tab_system">"הגדרות מערכת"</string>
     <string name="leui_main_tab_application">"הגדרות יישום"</string>
-    <string name="master_clear_desc">"\"פעולה זו תמחק את כל הנתונים מה\" &lt;b&gt; אחסון פנימי &lt;/ b&gt;\", כולל: \"&lt;li&gt; החשבון שלך &lt;/ li&gt;\" \"&lt;li&gt; נתונים והגדרות של מערכת ויישומים &lt;/ li&gt;\" \" &lt;li&gt; אפליקציות שהורדו &lt;/ li&gt;"</string>
+    <string name="master_clear_desc">"פעולה זו תמחק את כל הנתונים ב"<b>אחסון הפנימי</b>", כולל:
+
+"<li>החשבון שלך</li>"
+"<li>הגדרות מערכת ויישומים</li>"
+"<li>יישומים שהורדו</li></string>
+
     <string name="master_clear_button_text">"אפס את הטלפון"</string>
     <string name="master_clear_final_descrp">"כל המדיה, הנתונים וההגדרות יימחקו. לא ניתן לבטל פעולה זו. האם אתה בטוח שברצונך לאפס?"</string>
     <string name="master_clear_final_button">"שחזור הגדרות המפעל"</string>
@@ -283,7 +288,7 @@
     <string name="secrity_settings_passwordlock_access_statusbar">"גישה אל סרגל ההודעות כאשר הסיסמה נעולה"</string>
     <string name="leui_masterclear_options_category">"מחק אפשרויות"</string>
     <string name="leui_masterclear_options_formater_applications">"הסר אפליקציות"</string>
-    <string name="leui_masterclear_options_formater_sd">"עיצוב כרטיס SD וירטואלי"</string>
+    <string name="leui_masterclear_options_formater_sd">"מחיקת אחסון פנימי"</string>
     <string name="leui_prefered_default">"ברירת מחדל של המערכת"</string>
     <string name="leui_launcher_settings">"מַשׁגֵר"</string>
     <string name="leui_dialing_settings">"חִיוּג"</string>
