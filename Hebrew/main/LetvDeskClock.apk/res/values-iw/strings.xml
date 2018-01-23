@@ -17,7 +17,7 @@
     <string name="abc_shareactionprovider_share_with_application">"שתף עם  %s"</string>
     <string name="abc_toolbar_collapse_description">"הִתמוֹטְטוּת"</string>
     <string name="add_alarm">"הוסף התראה"</string>
-    <string name="alarm_alert_dismiss_now_text">"לבטל"</string>
+    <string name="alarm_alert_dismiss_now_text">"בטל"</string>
     <string name="alarm_alert_dismiss_text">"בטל"</string>
     <string name="alarm_alert_predismiss_title">"אזעקות עתידיות"</string>
     <string name="alarm_alert_snooze_text">"נִמנוּם"</string>
@@ -117,7 +117,7 @@
     <string name="nightmode_button_description">"מצב לילה"</string>
     <string name="no_alarms">"ללא התראות"</string>
     <string name="no_upcoming_alarms">"אין אזעקות הקרובה"</string>
-    <string name="revert">"לשחזר"</string>
+    <string name="revert">"שחזר"</string>
     <string name="ringtone">"רינגטונים"</string>
     <string name="ringtone_description">"רינגטונים"</string>
     <string name="screensaver_settings">"הגדרות שומר מסך"</string>
@@ -129,7 +129,7 @@
     <string name="set_alarm">"הגדר התראות"</string>
     <string name="settings">"הגדרות"</string>
     <string name="show_clock">"הצג שעון"</string>
-    <string name="silent_alarm_summary">"לְהַשְׁתִיק"</string>
+    <string name="silent_alarm_summary">"השתק"</string>
     <string name="slash">"/"</string>
     <string name="snooze_duration_title">"משך השהיית נודניק"</string>
     <string name="status_bar_notification_info_overflow">"999+"</string>
@@ -197,7 +197,7 @@
     <string name="alarm_alias_jungle">"ג'וּנגֶל"</string>
     <string name="alarm_alias_morning">"בוקר"</string>
     <string name="alarm_alias_rocku">"חוֹפֶשׁ"</string>
-    <string name="alarm_alias_rush">"לְמַהֵר"</string>
+    <string name="alarm_alias_rush">"מהר"</string>
     <string name="alarm_alias_speed">"מְהִירוּת"</string>
     <string name="alarm_alias_whisper">"חולמנית חולשת"</string>
     <string name="alarm_delete_alarm">"מחק"</string>
@@ -358,7 +358,7 @@
     <string name="lestar_media_op_set_as_favorites_tip">"מועדף"</string>
     <string name="lestar_media_op_set_as_ringtone">"הורד ולהגדיר כצלצול"</string>
     <string name="lestar_media_op_set_as_ringtone_disabled">"הוגדר בהצלחה כצלצול"</string>
-    <string name="lestar_media_op_set_as_ringtone_exist">"לשים כצלצול"</string>
+    <string name="lestar_media_op_set_as_ringtone_exist">"הגדר כצלצול"</string>
     <string name="lestar_media_op_set_as_ringtone_no_connection">"פעולה נכשלה. בדוק את הגדרות הרשת."</string>
     <string name="lestar_media_op_unset_as_favorites">"הסר מהמועדפים"</string>
     <string name="lestar_media_preview_no_network">"אין חיבור. התחבר לרשת ונסה שוב."</string>
@@ -401,7 +401,7 @@
     <string name="recommend_star_dialog_title">"שים שם של כוכב"</string>
     <string name="recommend_star_failed_toast">"שליחה נכשלה. בבקשה נסה שוב מאוחר יותר."</string>
     <string name="recommend_star_success_toast">"בקשה נשלחה. תוכן נוסף שיבוא ..."</string>
-    <string name="ringtone_alias_title_default">"הישאר מקורי"</string>
+    <string name="ringtone_alias_title_default">"השאר מקורי"</string>
     <string name="ringtone_alias_title_elasticball">"הַקפָּצָה"</string>
     <string name="ringtone_alias_title_latin">"לָטִינִית"</string>
     <string name="ringtone_alias_title_lily">"שׁוֹשָׁן"</string>
@@ -778,6 +778,6 @@
     <string name="le_keyguard_dual_widget_city_id">"C"</string>
         <string name="lepinned">"הוצמד"</string>
         <string name="privacy_guard_dialog_title">"שומר הפרטיות"</string>
-        <string name="ringtone_silent">"לְהַשְׁתִיק"</string>
+        <string name="ringtone_silent">"השתק"</string>
     <string name="share_send_to">"לשלוח ל"</string>
 </resources>
