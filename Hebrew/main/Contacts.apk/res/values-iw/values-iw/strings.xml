@@ -62,7 +62,7 @@
     <string name="recentCalls_delete">"מחק"</string>
     <string name="menu_selectAll">"בחר הכל"</string>
     <string name="menu_clearAll">"הסר כל המסומנים"</string>
-    <string name="sim1">"סים 2"</string>
+    <string name="sim1">"סים 1"</string>
     <string name="sim2">"סים 2"</string>
     <string name="all_resources">"כל המשאבים"</string>
     <string name="choose_resources_header">"בחר משאבים"</string>
@@ -330,7 +330,7 @@
     <string name="menu_all_contacts">"כל אנשי הקשר"</string>
     <string name="search_bar_hint">" חיפוש אנשי קשר"</string>
     <string name="searching_vcard_title">"מחפש vCard"</string>
-    <string name="toast_text_copied">"מוּעֲתָק"</string>
+    <string name="toast_text_copied">"מועתק"</string>
     <string name="all_contacts_empty">"אין אנשי קשר."</string>
     <string name="photo_file_provider_authority">"com.android.contacts.files"</string>
     <string name="call_custom">"התקשר אל %s"</string>
@@ -501,10 +501,10 @@
     <string name="exporting_contact_list_message">"מייצא נתוני איש קשר לקובץ הבא: %s ."</string>
     <string name="composer_failed_to_get_database_infomation">"לא ניתן לקבל מידע על מסד נתונים."</string>
     <string name="composer_has_no_exportable_contact">"אם יש אנשי קשר שנשמרו בטלפון, ייתכן שחלק מהמידע שלהם לא יהיה מותר לייצא."</string>
-    <string name="composer_not_initialized">"מלחין vCard לא אותחל כראוי."</string>
+    <string name="composer_not_initialized">"קובץ vCard לא אותחל כראוי."</string>
     <string name="exporting_contact_failed_title">"הייצוא נכשל"</string>
     <string name="exporting_contact_failed_message">"אין אפשרות לייצא נתוני אנשי קשר. סיבה: %s"</string>
-    <string name="no_sdcard_message">"לא נמצאה אחסון."</string>
+    <string name="no_sdcard_message">"לא נמצא קובץ אחסון."</string>
     <string name="confirm_export_message">"המערכת תייצא נתוני איש קשר לקובץ הבא: %s ."</string>
     <string name="importing_vcard_description">"מייבא %s"</string>
     <string name="reading_vcard_failed_title">"לא ניתן לקרוא נתוני vCard"</string>
@@ -544,7 +544,7 @@
     <string name="dialog_import">"ייבא אנשי קשר"</string>
     <string name="share_error">"לא ניתן לשתף איש קשר זה."</string>
     <string name="send_email_error">"אין אפליקציה לביצוע פעולה זו."</string>
-    <string name="menu_search">"לחפש"</string>
+    <string name="menu_search">"חפש"</string>
     <string name="menu_deleteContact">"מחק "</string>
     <string name="menu_contacts_filter">"אנשי קשר להצגה"</string>
     <string name="activity_title_contacts_filter">"אנשי קשר להצגה"</string>
@@ -574,7 +574,7 @@
     <string name="description_clear_search">"נקה היסטוריית חיפוש"</string>
     <string name="search_font_family">"פונט סאנס סריף"</string>
     <string name="settings_contact_display_options_title">"אפשרויות תצוגת אנשי קשר"</string>
-    <string name="select_account_dialog_title">"חֶשְׁבּוֹן"</string>
+    <string name="select_account_dialog_title">"חשבונות"</string>
     <string name="set_default_account">"השתמש תמיד בשיחות"</string>
     <string name="select_phone_account_for_calls">"להתקשר עם"</string>
     <string name="delete_group_confirm">"מחק קבוצה"</string>
@@ -611,7 +611,7 @@
     <string name="contact_setting_menu_return">"חזור"</string>
     <string name="contact_application_details">"פרטי האפליקציה"</string>
     <string name="contact_preference_label">"אנשי קשר"</string>
-    <string name="contacts_filter_label">"לְהַצִיג"</string>
+    <string name="contacts_filter_label">"הצג"</string>
     <string name="other_preference_label">"אחרים"</string>
     <string name="import_contacts">"יבוא"</string>
     <string name="export_contacts">"יְצוּא"</string>
@@ -720,7 +720,7 @@
     <string name="le_remove_from_frequent">"הסר מהמועדפים"</string>
     <string name="le_more_operation">"עוד"</string>
     <string name="le_contact_list_edit">"ערוך"</string>
-    <string name="le_contact_list_filter">"לְסַנֵן"</string>
+    <string name="le_contact_list_filter">"סַנֵן"</string>
     <string name="mygroup_display_name">"הקבוצות שלי"</string>
     <string name="mygroup_contacts_list_header">"קְבוּצָה"</string>
     <string name="my_contacts_label">"אנשי הקשר שלי"</string>
@@ -729,7 +729,7 @@
     <string name="le_pick_unselect_title">"הקש כדי לבחור"</string>
     <string formatted="false" name="le_error_success_delete_count">"פרטים: %s מלאה, %s נכשלה
 "</string>
-    <string name="le_delete_success_message">"מחק הצלחה"</string>
+    <string name="le_delete_success_message">"נמחק בהצלחה"</string>
     <string name="online_search">"חיפוש באינטרנט"</string>
     <string name="recent_used">"לאחרונה"</string>
     <string name="le_frequent_confirm_delete_title">"הסר איש קשר מ'מועדפים 'או' מומלץ '"</string>
@@ -778,14 +778,14 @@
     <string name="menu_create_contact_shortcut">"יצירת קיצור דרך במסך הבית"</string>
     <string name="menu_call">"שיחה לאיש קשר"</string>
     <string name="menu_sendSMS">"שלח SMS לאיש קשר"</string>
-    <string name="menu_splitAggregate">"לְפַצֵל"</string>
+    <string name="menu_splitAggregate">"פצל"</string>
     <string name="menu_editGroup">"ערוך"</string>
     <string name="menu_deleteGroup">"מחק"</string>
     <string name="menu_new_contact_action_bar">"הוסף איש קשר"</string>
     <string name="menu_new_group_action_bar">"הוסף קבוצה"</string>
     <string name="splitConfirmation_title">"לפצל את איש הקשר?"</string>
     <string name="splitConfirmation">"איש קשר זה יחולק לאנשי קשר נפרדים."</string>
-    <string name="menu_joinAggregate">"מַזֵג"</string>
+    <string name="menu_joinAggregate">"מזג"</string>
     <string name="blurbJoinContactDataWith">"בחר אנשי קשר שיש למזג עם %s :"</string>
     <string name="showAllContactsJoinItem">"הצג את כל אנשי הקשר"</string>
     <string name="separatorJoinAggregateSuggestions">"הצע אנשי קשר "</string>
@@ -827,7 +827,7 @@
     <string name="quickcontact_hometime">"זמן בית"</string>
     <string name="quickcontact_social_account">"חשבונות חברתיים"</string>
     <string name="le_quickcontact_erase_trace">"מחק עקבות"</string>
-    <string name="le_quickcontact_confirm_erase">"לִמְחוֹק"</string>
+    <string name="le_quickcontact_confirm_erase">"מחק"</string>
     <string name="le_quickcontact_erase_trace_tips">"פעולה זו תמחק את כל רשומות השיחה וההודעה עבור איש קשר זה, וכן המלצות חכמות קשורות מועדפים. לְהַמשִׁיך?"</string>
     <string name="quickcontact_hometime_select_title">"בחר מספר לחיוג אל הבית"</string>
     <string name="quickcontact_hometime_dial_title">"התקשר אל %s"</string>
@@ -851,12 +851,12 @@
     <string name="take_new_photo">"צלם תמונה חדשה"</string>
     <string name="pick_photo">"בחר תמונה"</string>
     <string name="pick_new_photo">"בחר תמונה חדשה"</string>
-    <string name="menu_display_selected">"נבחרים נבחרים"</string>
+    <string name="menu_display_selected">"נבחרו"</string>
     <string name="menu_display_all">"כל הנמענים"</string>
     <string name="add_field">"הוסף מידע"</string>
     <string name="add_new_entry_for_section">"הוסף רשומה חדשה"</string>
     <string name="add_organization">"הוסף ארגון"</string>
-    <string name="event_edit_field_hint_text">"תַאֲרִיך"</string>
+    <string name="event_edit_field_hint_text">"תאריך"</string>
     <string name="group_edit_field_hint_text">"שם קבוצה"</string>
     <string name="description_star">"מועדף"</string>
     <string name="aggregation_suggestion_join_dialog_message">"למזג את איש הקשר הנוכחי עם אנשי הקשר שנבחרו?"</string>
@@ -902,14 +902,14 @@
     <string name="menu_export_database">"ייצוא מסד נתונים"</string>
     <string name="action_menu_add_new_contact_button">"הוסף איש קשר חדש"</string>
     <string name="expanding_entry_card_view_see_more">"ראה עוד"</string>
-    <string name="expanding_entry_card_view_see_less">"להתחבא"</string>
+    <string name="expanding_entry_card_view_see_less">"הסתר"</string>
     <string name="expanding_entry_card_view_see_all">"צפה בהכל"</string>
     <string name="recent_card_title">"היסטוריית שיחות"</string>
     <string name="contact_editor_prompt_local_accounts">"המערכת לא תגבה את אנשי הקשר החדשים שלך."</string>
     <string name="about_card_title">"אודות"</string>
     <string name="toast_making_personal_copy">"יוצר עותק ..."</string>
     <string name="yesterday">"אתמול"</string>
-    <string name="tomorrow">"מָחָר"</string>
+    <string name="tomorrow">"מחר"</string>
     <string name="today">"היום"</string>
     <string name="today_at_time_fmt">"היום ב- %s"</string>
     <string name="tomorrow_at_time_fmt">"מחר ב- %s"</string>
@@ -922,7 +922,7 @@
     <string name="header_note_entry">"הערות"</string>
     <string name="header_website_entry">"אתר אינטרנט"</string>
     <string name="header_event_entry">"מִקרֶה"</string>
-    <string name="header_relation_entry">"יַחַס"</string>
+    <string name="header_relation_entry">"יחס"</string>
     <string name="content_description_directions">"כיוונים"</string>
     <string name="content_description_recent_sms">"הודעות SMS אחרונות. %s . הקש כדי להשיב."</string>
     <string name="content_description_recent_call_type_incoming">"שיחה נכנסת"</string>
@@ -934,7 +934,7 @@
     <string name="account">"חֶשְׁבּוֹן"</string>
     <string name="drawer_open">"מגירה"</string>
     <string name="drawer_close">"drawer סגור"</string>
-    <string name="save_contact">"שמור איש קשר זה?"</string>
+    <string name="save_contact">"לשמור איש קשר זה?"</string>
     <string name="initializing_message">"מאתחל ..."</string>
     <string name="error_import_done_title">"אנשי קשר יוצאו לכרטיס ה- SIM"</string>
     <string name="error_import__from_simcard_done_title">"ייבוא ​​אנשי קשר מכרטיס ה- SIM הושלם"</string>
@@ -984,7 +984,7 @@
     <string name="le_rename_group_dialog_title">"שנה את שם הקבוצה"</string>
     <string name="le_contact_editor_title_listview_cancel">"בטל"</string>
     <string name="le_contact_editor_title_format">"%1$s %3$s ( %2$s )"</string>
-    <string name="le_contact_editor_title_new">"חָדָשׁ"</string>
+    <string name="le_contact_editor_title_new">"חדש"</string>
     <string name="le_contact_editor_title_edit">"ערוך"</string>
     <string name="le_contact_editor_title_contact">"איש קשר"</string>
     <string name="le_contact_editor_title_list_all_account">"כל החשבונות"</string>
@@ -1006,7 +1006,7 @@
     <string name="le_prompt_blacklist_processing">"שינוי הרשימה השחורה מתבצע. המתן בבקשה."</string>
     <string name="le_remove_contact_from_group_title">"הסרת אנשי קשר מהקבוצה"</string>
     <string name="le_remove_contact_from_group_tips">"אנשי קשר שהוסרו מהקבוצה לא יימחקו"</string>
-    <string name="le_remove_contact_from_group_success">"הסר את הצלחת אנשי הקשר"</string>
+    <string name="le_remove_contact_from_group_success">"הסרת אנשי הקשר הצליחה"</string>
     <string name="le_remove_contact_progressbar">"מסיר ( %s )"</string>
     <string name="contact_no_accounts">"אין חשבונות"</string>
     <item name="APKTOOL_DUMMY_404" type="string">false</item>

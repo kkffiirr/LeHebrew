@@ -125,9 +125,9 @@
     <string name="menu_edit">"ערוך"</string>
     <string name="menu_forward">"העבר"</string>
     <string name="menu_group_participants">"משתתפי הקבוצה"</string>
-    <string name="menu_lock">"לנעול"</string>
+    <string name="menu_lock">"נעל"</string>
     <string name="menu_preferences">"הגדרות"</string>
-    <string name="menu_search">"לחפש"</string>
+    <string name="menu_search">"חפש"</string>
     <string name="menu_send_email">"שלח דוא\"ל אל %s"</string>
     <string name="menu_unlock">"לא נעול"</string>
     <string name="menu_view">"הצג שיחה"</string>
@@ -174,7 +174,7 @@
     <string name="pref_mms_settings_title">"MMS"</string>
     <string name="pref_notification_settings_title">"התראות"</string>
     <string name="pref_sms_settings_title">"הודעה"</string>
-    <string name="pref_sms_storage_title">"אִחסוּן"</string>
+    <string name="pref_sms_storage_title">"אחסון"</string>
     <string name="pref_summary_auto_delete">"מחיקה אוטומטית של הודעות ישנות כאשר Inbox מלא"</string>
     <string name="pref_summary_delete_limit">"שמור על %1$s הודעות בכל שיחה"</string>
     <string name="pref_summary_manage_sim_messages">"ניהול הודעות המאוחסנות בכרטיס ה- SIM"</string>
@@ -212,7 +212,7 @@
     <string name="received_label">"התקבל"</string>
     <string name="recipient_label">"מקבל: "</string>
     <string name="recipient_list_activity">"משתתפי הקבוצה"</string>
-    <string name="refreshing">"מְרַעֲנֵן..."</string>
+    <string name="refreshing">"מרענן..."</string>
     <string name="remove">"מחק"</string>
     <string name="remove_music">"מחיקת מוסיקה"</string>
     <string name="remove_picture">"מחק תמונה"</string>
@@ -272,7 +272,7 @@
     <string name="status_pending">"ממתין"</string>
     <string name="status_read">"נקרא"</string>
     <string name="status_received">"התקבל"</string>
-    <string name="status_rejected">"נִדחֶה"</string>
+    <string name="status_rejected">"נדחה"</string>
     <string name="status_unread">"לא נקרא"</string>
     <string name="storage_limits_activity">"מגבלות אחסון"</string>
     <string name="storage_limits_message">"האם ברצונך להגביל את מספר ההודעות שניתן לשמור בכל שיחה?"</string>
@@ -313,7 +313,7 @@
     <string name="attach_media">"מדיה"</string>
     <string name="attach_subject">"נושא"</string>
     <string name="attach_timer">"תזמן הודעה"</string>
-    <string name="attach_vcalendar">"לוּחַ שָׁנָה"</string>
+    <string name="attach_vcalendar">"לוח שנה"</string>
     <string name="attach_vcard">"איש קשר"</string>
     <string name="black_list_intercept_title">"הוסף %s לרשימה השחורה וחסום את השיחות וההודעות שלו?"</string>
     <string name="black_list_manager">"רשימה שחורה"</string>
@@ -443,10 +443,10 @@
     <string name="le_remove">"הַסִר"</string>
     <string name="le_search_empty_view">"לא נמצאו תוצאות"</string>
     <string name="leui_check_original_text">"ראה מקור"</string>
-    <string name="leui_commom_phrase_1">"חופשי הלילה?"</string>
+    <string name="leui_commom_phrase_1">"פנוי הלילה?"</string>
     <string name="leui_commom_phrase_2">"בפגישה עכשיו. מה קורה?"</string>
-    <string name="leui_commom_phrase_3">"בדרכי. להיות שם בשנייה."</string>
-    <string name="leui_commom_phrase_4">"עסוק כרגע. יתקשר אליך מאוחר יותר, תודה!"</string>
+    <string name="leui_commom_phrase_3">"בדרכי. אהיה שם עוד רגע."</string>
+    <string name="leui_commom_phrase_4">"עסוק כרגע. אתקשר אליך מאוחר יותר, תודה!"</string>
     <string name="leui_file_attachment_vcard_name">"%s contacts.vcf"</string>
     <string name="leui_flight_title_for_calendar">"כרטיס טיסה:"</string>
     <string name="leui_group_count">"%1$s"</string>
@@ -515,7 +515,7 @@
     <string name="pref_smsc_title">"הגדרות"</string>
     <string name="pref_summary_enable_preview_content">"תצוגה מקדימה של הודעות חדשות"</string>
     <string name="pref_summary_intelligent_msg">"מידע תומך במספר טלפון נייד למעלה, הוספת לוח שנה אוטומטי, בדיקת פרטי סרט וכו '."</string>
-    <string name="pref_summary_light_screen">"להתעורר המסך כאשר מגיע הודעה חדשה"</string>
+    <string name="pref_summary_light_screen">"הער את המסך כאשר תגיע הודעה חדשה"</string>
     <string name="pref_summary_mms_auto_reply_read_reports">"דוח קריאה עבור כל הודעה מותר על פי בקשת השולח"</string>
     <string name="pref_summary_mms_delivery_report">"בקשה לדוח מסירה עבור כל הודעה שנשלחה"</string>
     <string name="pref_summary_mms_read_report">"בקש דוח קריאה עבור כל הודעה שאתה שולח"</string>
@@ -523,10 +523,10 @@
     <string name="pref_summary_show_recent_contact">"הצג אנשי קשר אחרונים בעת יצירת הודעה חדשה"</string>
     <string name="pref_summary_sms_delivery_report">"החזרת דוח מסירה כאשר ההודעה מתקבלת"</string>
     <string name="pref_summary_spam_msg_block">"חסימה אוטומטית של הודעות דואר זבל ודואר בסיס מזויף"</string>
-    <string name="pref_title_display">"לְהַצִיג"</string>
+    <string name="pref_title_display">"הצג"</string>
     <string name="pref_title_enable_preview_content">"תצוגה מקדימה של ההודעה"</string>
     <string name="pref_title_intelligent_msg">"פעולת מידע חכם"</string>
-    <string name="pref_title_light_screen">"להדליק את המסך עבור הודעת הודעה"</string>
+    <string name="pref_title_light_screen">"הער את המסך עבור הודעת הודעה"</string>
     <string name="pref_title_manage_sim_messages_slot1">"ניהול הודעות המאוחסנות בכרטיס SIM 1"</string>
     <string name="pref_title_manage_sim_messages_slot2">"ניהול הודעות המאוחסנות בכרטיס SIM 2"</string>
     <string name="pref_title_mms_auto_change_screen">"סיבוב מסך אוטומטי"</string>
@@ -594,7 +594,7 @@
     <string name="set_smsc_confirm_message">"שינוי מספר ה- SMSC עלול להוביל לכשל שליחת ה- SMS. האם אתה רוצה להמשיך?"</string>
     <string name="set_smsc_error">"הגדרת מספר ה- SMS נכשלה"</string>
     <string name="set_smsc_success">"מספר ה- SMSC הוגדר בהצלחה"</string>
-    <string name="shrink">"הִתמוֹטְטוּת"</string>
+    <string name="shrink">"ביטול"</string>
     <string name="sim_capacity">"סך הקיבולת:"</string>
     <string name="sim_capacity_title">"קיבולת ה- SIM"</string>
     <string name="sim_capacity_used">"קיבולת משומשת:"</string>
@@ -763,7 +763,7 @@
     <string name="app_ops_use_media_volume">"בקרת עוצמת הקול של המדיה"</string>
     <string name="app_ops_use_notification_volume">"עוצמת קול של בקרה"</string>
     <string name="app_ops_use_ring_volume">"בקרת עוצמת הצלצול"</string>
-    <string name="app_ops_use_vibrate">"השתמש משוב"</string>
+    <string name="app_ops_use_vibrate">"השתמש ברטט"</string>
     <string name="app_ops_use_voice_volume">"בקרת עוצמת הקול"</string>
     <string name="app_ops_write_mms">"כתוב הודעת MMS"</string>
     <string name="app_ops_write_sms">"כתוב הודעת SMS"</string>
@@ -893,7 +893,7 @@
     <string name="le_anr_application_process">"אין תגובה מ- %1$s ."</string>
     <string name="le_anr_process">"%1$s אינו מגיב."</string>
     <string name="le_click_to_prompt_permission_text">"הרשאת המשתמש הנוכחית נדחתה"</string>
-    <string name="le_close_not_disturb">"כבה לא להפריע"</string>
+    <string name="le_close_not_disturb">"כבה את לא להפריע"</string>
     <string name="le_datetime_buddhism">"לִהיוֹת"</string>
     <string name="le_dialpad_select_sim_card">"בחר כרטיס SIM לשימוש"</string>
     <string name="le_dialpad_select_sim_card_cancel">"בטל"</string>
@@ -1031,11 +1031,11 @@
     <string name="prohibit_value">"+"</string>
     <string name="push_card_button_text">"צפה בפרטים"</string>
     <string name="push_group_label">"חשבונות שירות"</string>
-    <string name="reboot">"לְאַתחֵל"</string>
+    <string name="reboot">"הפעל מחדש"</string>
     <string name="reboot_btn">"החלק למטה כדי לכבות"</string>
-    <string name="reboot_btn_v2">"לְאַתחֵל"</string>
-    <string name="reboot_confirm">"הטלפון שלך יאותחל מחדש."</string>
-    <string name="reboot_confirm_question">"אתחל מחדש עכשיו"</string>
+    <string name="reboot_btn_v2">"הפעל מחדש "</string>
+    <string name="reboot_confirm">"הטלפון שלך יופעל מחדש."</string>
+    <string name="reboot_confirm_question">"הפעל מחדש עכשיו"</string>
     <string name="reboot_tip">"בגללך, גדלתי כל יום"</string>
     <string name="refuse_adb_install">"סירב להתקין את היישום על ידי הפקודה ADB!"</string>
     <string name="searching_message">"מחפש"</string>
@@ -1055,7 +1055,7 @@
     <string name="share_browser_add_home">"הוסף הביתה"</string>
     <string name="share_browser_copy_link">"העתק"</string>
     <string name="share_browser_save_page">"שמור"</string>
-    <string name="share_browser_search">"לחפש"</string>
+    <string name="share_browser_search">"חפש"</string>
     <string name="share_browser_send_deskTop">"שימוש רגיל"</string>
     <string name="share_cancel">"בטל"</string>
     <string name="share_email_share_to_letv_cloud">"שתף את"</string>
