@@ -264,8 +264,8 @@
     <string name="game_boost_icon_already_exist_msg">"Boost כבר קיים"</string>
     <string name="game_boost_icon_remove_msg">"משחק Boost נמחק, אתה יכול להוסיף מחדש באמצעות יישומון"</string>
     <string name="game_boost_label">"מצב האצת משחקים"</string>
-    <string name="game_boost_started">"הגדלת ..."</string>
-    <string name="game_boost_succeeded">"הגדילה בהצלחה!"</string>
+    <string name="game_boost_started">"מאיץ ..."</string>
+    <string name="game_boost_succeeded">"האצה הצליחה!"</string>
     <string name="global_action_reboot">"אתחול"</string>
     <string name="hour">"H"</string>
     <string name="le_aerr_application">"%1$s נתקל בבעיה."</string>
@@ -474,6 +474,6 @@
         <string name="password_toggle_content_description">"החלף את נראות הסיסמה"</string>
     
     <string name="privacy_guard_dialog_title">"שומר הפרטיות"</string>
-        <string name="ringtone_silent">"לְהַשְׁתִיק"</string>
+        <string name="ringtone_silent">"השתק"</string>
     <string name="share_send_to">"לשלוח ל"</string>
 </resources>

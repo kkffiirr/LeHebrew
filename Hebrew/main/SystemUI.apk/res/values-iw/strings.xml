@@ -688,7 +688,7 @@
     <string name="le_app_widget_clock_title">"שָׁעוֹן"</string>
     <string name="le_app_widget_calculator_title">"מַחשְׁבוֹן"</string>
     <string name="le_app_widget_camera_title">"מַצלֵמָה"</string>
-    <string name="le_app_widget_search_title">"לחפש"</string>
+    <string name="le_app_widget_search_title">"חפש"</string>
     <string name="le_cc_shortcut_flight_text">"מצב טיסה"</string>
     <string name="le_cc_shortcut_wifi_text">"Wi-Fi"</string>
     <string name="le_cc_shortcut_data_text">"נתונים"</string>
@@ -714,7 +714,7 @@
     <string name="le_cc_setting_app_capscreen_text">"צילום מסך"</string>
     <string name="le_cc_setting_app_phone_text">"טלפון"</string>
     <string name="le_cc_setting_app_note_text">"הערות"</string>
-    <string name="le_cc_setting_app_search_text">"לחפש"</string>
+    <string name="le_cc_setting_app_search_text">"חפש"</string>
     <string name="le_cc_setting_app_telecontroller_text">"שלט רחוק"</string>
     <string name="le_cc_setting_app_settings_text">"הגדרות מערכת"</string>
     <string name="le_cc_setting_app_wirelessdisplay_text">"תצוגה אלחוטית"</string>

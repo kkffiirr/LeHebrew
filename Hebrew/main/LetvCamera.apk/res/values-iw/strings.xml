@@ -7,7 +7,7 @@
      <string name="accessibility_review_cancel">"בטל"</string>
      <string name="accessibility_review_ok">"בוצע"</string>
      <string name="accessibility_review_retake">"לְצַלֵם שׁוּב"</string>
-     <string name="accessibility_shutter_button">"תְרִיס"</string>
+     <string name="accessibility_shutter_button">"תריס"</string>
      <string name="accessibility_switch_to_camera">"עבור לתמונה"</string>
      <string name="accessibility_switch_to_gcam">"עבור באיכות גבוהה"</string>
      <string name="accessibility_switch_to_panorama">"עבור לפנורמה"</string>
@@ -251,7 +251,7 @@
      <string name="disconnect_data_connection">"נתק את חיבור הנתונים"</string>
      <string name="down">"מטה"</string>
      <string name="drawable">"סצינה"</string>
-     <string name="duration">"משךפרק זמן"</string>
+     <string name="duration">"משך פרק זמן"</string>
      <string name="during_call_camera_disabled">"לא ניתן להקליט וידאו במהלך השיחה."</string>
      <string name="edit">"ערוך"</string>
      <string name="effect_backdropper_gallery">"קטעי הסירטונים שלי"</string>
@@ -1257,9 +1257,9 @@
      <string name="remember_location_yes">"כן"</string>
      <string name="rendering_photo_sphere">"עיבוד תמונה פנורמית"</string>
      <string name="right">"ימין"</string>
-     <string name="ringtone_silent">"לְהַשְׁתִיק"</string>
+     <string name="ringtone_silent">"השתק"</string>
      <string name="rotate_left">"סובב שמאלה"</string>
-     <string name="rotate_right">"לסובב ימינה"</string>
+     <string name="rotate_right">"סובב ימינה"</string>
      <string name="saving_tiny_planet">"שמירת כוכב זעיר ..."</string>
      <string name="saving_txt">"שומר..."</string>
      <string name="scale_x">"scaleX"</string>
@@ -1304,7 +1304,7 @@
      <string name="share_title">"שתף או שלח אל"</string>
      <string name="share_to">"שתף עם"</string>
      <string name="show_on_map">"הצג על המפה"</string>
-     <string name="shutdow_btn">"לכבות"</string>
+     <string name="shutdow_btn">"כבה"</string>
      <string name="shutdown_tip">"בגללך, גדלתי כל יום"</string>
      <string name="skin">"העור לרכך"</string>
      <string name="sleep_dialog_btn_text">"אישור"</string>
@@ -1337,7 +1337,7 @@
      <string name="time_lapse_seconds">"שניות"</string>
      <string name="time_lapse_title">"זמן לשגות הקלטה"</string>
      <string name="timeseparator">"*"</string>
-     <string name="tiny_planet_rotate">"לְסוֹבֵב"</string>
+     <string name="tiny_planet_rotate">"סוֹבֵב"</string>
      <string name="tiny_planet_zoom">"זום"</string>
      <string name="title">"כותרת"</string>
      <string name="tmplimited_dialog_btn_text">"יציאה"</string>
@@ -1345,7 +1345,7 @@
      <string name="trim_action">"מְטוּפָּח"</string>
      <string name="try_to_set_local_album_available_offline">"פריט זה מאוחסן באופן מקומי וזמין במצב לא מקוון."</string>
      <string name="turnoff_flash_hint">"אזהרת טמפרטורה גבוהה. הפלאש יושעה בעוד %1$d %2$d שניות כדי להגן על הטלפון שלך."</string>
-     <string name="undo">"לבטל"</string>
+     <string name="undo">"בטל"</string>
      <string name="unit_mm">"מ\"מ"</string>
      <string name="unknown">"לא ידוע"</string>
      <string name="up">"לְמַעלָה"</string>

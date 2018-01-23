@@ -9,7 +9,7 @@
     <string name="httpErrorUnsupportedScheme">"הפרוטוקול אינו נתמך."</string>
     <string name="no">"ביטול"</string>
     <string name="ok">"אישור"</string>
-    <string name="paste">"לְהַדבִּיק"</string>
+    <string name="paste">"להדבק"</string>
     <string name="search_go">"לחפש"</string>
     <string name="selectAll">"בחר הכל"</string>
     <string name="unknownName">"לא ידוע"</string>
@@ -96,12 +96,12 @@
     <string name="peerTtyModeOff">"Peer ביקש מצב TTY כבוי"</string>
     <string name="serviceClassVoice">"קוֹל"</string>
     <string name="serviceClassData">"נתונים"</string>
-    <string name="serviceClassFAX">"פַקס"</string>
+    <string name="serviceClassFAX">"פקס"</string>
     <string name="serviceClassSMS">"הודעה"</string>
     <string name="serviceClassDataAsync">"סינכרון"</string>
     <string name="serviceClassDataSync">"סינכרון"</string>
-    <string name="serviceClassPacket">"חֲבִילָה"</string>
-    <string name="serviceClassPAD">"כָּרִית"</string>
+    <string name="serviceClassPacket">"חבילה"</string>
+    <string name="serviceClassPAD">"כרית"</string>
     <string name="roamingText0">"נורית מצב נדידה מופעלת"</string>
     <string name="roamingText1">"מחוון נדידה כבוי"</string>
     <string name="roamingText2">"מחוון נדידה מהבהבת"</string>
@@ -196,7 +196,7 @@
     <string name="global_actions_airplane_mode_on_status">"מצב טיסה פעיל"</string>
     <string name="global_actions_airplane_mode_off_status">"מצב טיסה כבוי"</string>
     <string name="global_action_settings">"הגדרות"</string>
-    <string name="global_action_assist">"לסייע"</string>
+    <string name="global_action_assist">"סיוע"</string>
     <string name="global_action_voice_assist">"עזרה קולית"</string>
     <string name="global_action_lockdown">"נעל עכשיו"</string>
     <string name="safeMode">"מצב בטוח"</string>
@@ -204,10 +204,10 @@
     <string name="user_owner_label">"אישי"</string>
     <string name="managed_profile_label">"עֲבוֹדָה"</string>
     <string name="permgrouplab_contacts">"אנשי קשר"</string>
-    <string name="permgroupdesc_contacts">"לגשת לאנשי הקשר שלך"</string>
+    <string name="permgroupdesc_contacts">"גישה לאנשי הקשר שלך"</string>
     <string name="permgrouplab_location">"מקום"</string>
     <string name="permgroupdesc_location">"גש למיקום של מכשיר זה"</string>
-    <string name="permgrouplab_calendar">"לוּחַ שָׁנָה"</string>
+    <string name="permgrouplab_calendar">"לוח שנה"</string>
     <string name="permgroupdesc_calendar">"לגשת ליומן שלך"</string>
     <string name="permgrouplab_sms">"הודעה"</string>
     <string name="permgroupdesc_sms">"לשלוח ולהציג הודעות SMS"</string>

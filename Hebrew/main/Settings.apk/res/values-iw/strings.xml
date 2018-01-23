@@ -193,7 +193,7 @@
     <string name="vpn_control_settings">"VPN"</string>
     <string name="header_common_settings">"כללי"</string>
     <string name="display_wallpapers_settings">"תצוגה וטפט"</string>
-    <string name="sound_vibration_settings">"קולות ורטט"</string>
+    <string name="sound_vibration_settings">"צלילים ורטט"</string>
     <string name="language_keyboard_settings">"שפות ומקלדות"</string>
     <string name="cloud_service_settings">"שלי LeEco"</string>
     <string name="control_center_settings">"מרכז שליטה"</string>
@@ -1693,7 +1693,7 @@
     <string name="accessibility_category_personal">"חשבונות פרופיל אישיים"</string>
     <string name="accessibility_work_account_title">"חשבון עבודה - %s"</string>
     <string name="accessibility_personal_account_title">"חשבון אישי - %s"</string>
-    <string name="search_settings">"לחפש"</string>
+    <string name="search_settings">"חפש"</string>
     <string name="search_settings_summary">"ניהול הגדרות החיפוש וההיסטוריה"</string>
     <string name="display_settings">"תצוגה"</string>
     <string name="accelerometer_title">"סיבוב מסך אוטומטי"</string>
@@ -1838,9 +1838,9 @@
     <string name="storage_menu_format_public">"פורמט כמו נייד"</string>
     <string name="storage_menu_format_private">"פורמט פנימי"</string>
     <string name="storage_menu_migrate">"העבר נתונים"</string>
-    <string name="storage_menu_forget">"לשכוח"</string>
+    <string name="storage_menu_forget">"שכח"</string>
     <string name="storage_menu_set_up">"הכן"</string>
-    <string name="storage_menu_explore">"לַחקוֹר"</string>
+    <string name="storage_menu_explore">"בדוק"</string>
     <string name="storage_title_usb">"חיבור USB למחשב"</string>
     <string name="usb_connection_category">"התחבר כ"</string>
     <string name="usb_mtp_title">"התקן מדיה (MTP)"</string>
@@ -2172,7 +2172,7 @@
     <string name="reset_app_preferences_desc">"פעולה זו תאפס את כל ההעדפות עבור: \"&lt;li&gt; אפליקציות מושבתות &lt;/ li&gt;\" \"&lt;li&gt; הודעות מושבתות &lt;/ li&gt;\" \"&lt;li&gt; בקשות ברירת מחדל לפעולות &lt;/ li&gt;\" \"&lt;li&gt; הגבלות על נתוני רקע עבור אפליקציות &lt;/ li&gt; \"\" &lt;li&gt; כל הגבלות הרשאה &lt;/ li&gt; \"לא תאבד נתונים של אפליקציות."</string>
     <string name="reset_app_preferences_button">"אפס אפליקציות"</string>
     <string name="manage_space_text">"ניהול שטח"</string>
-    <string name="filter">"לְסַנֵן"</string>
+    <string name="filter">"סנן"</string>
     <string name="filter_dlg_title">"בחר אפשרויות סינון"</string>
     <string name="filter_apps_all">"הכל"</string>
     <string name="filter_apps_disabled">"מושבת"</string>
@@ -2606,7 +2606,7 @@
     <string name="menu_stats_unplugged">"%1$s מאז ניתוק"</string>
     <string name="menu_stats_last_unplugged">"בעוד האחרון מנותק עבור %1$s"</string>
     <string name="menu_stats_total">"סיכומי שימוש"</string>
-    <string name="menu_stats_refresh">"לְרַעֲנֵן"</string>
+    <string name="menu_stats_refresh">"רענן"</string>
     <string name="process_kernel_label">"מערכת ההפעלה של Android"</string>
     <string name="process_mediaserver_label">"Mediaserver"</string>
     <string name="process_dex2oat_label">"אופטימיזציה של אפליקציות"</string>
@@ -2658,7 +2658,7 @@
     <string name="voice_input_output_settings_title">"הגדרות קלט קול ופלט"</string>
     <string name="voice_search_settings_title">"חיפוש קולי"</string>
     <string name="keyboard_settings_title">"מקלדת Android"</string>
-    <string name="voice_category">"נְאוּם"</string>
+    <string name="voice_category">"קלט קולי"</string>
     <string name="voice_input_settings">"הגדרות קלט קולי"</string>
     <string name="voice_input_settings_title">"קלט קולי"</string>
     <string name="voice_service_preference_section_title">"שירותי קלט קולי"</string>
@@ -2719,7 +2719,7 @@
     <string name="gadget_state_on">"פועל"</string>
     <string name="gadget_state_off">"כבוי"</string>
     <string name="gadget_state_turning_on">"מדליק"</string>
-    <string name="gadget_state_turning_off">"לכבות"</string>
+    <string name="gadget_state_turning_off">"מכבה"</string>
     <string name="gadget_wifi">"Wi-Fi"</string>
     <string name="gadget_location">"מיקום"</string>
     <string name="gadget_sync">"סינכרון"</string>
