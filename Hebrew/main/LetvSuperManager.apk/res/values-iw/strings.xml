@@ -279,7 +279,6 @@
     <string name="le_string_update_success">"עדכון ספריית הווירוסים הצליח"</string>
     <string name="le_string_updatewith">"עודכן:"</string>
     <string name="le_string_virus">"וירוס"</string>
-    <string name="le_string_virus_descriptopn">"מצא וירוס &lt;font color = # eb3e2e&gt; %1$s &lt;/ font&gt;, %2$s"</string>
     <string name="le_string_virus_engine_description">"אודות"</string>
     <string name="le_string_virus_setting">"הגדרות מזהה וירוסים"</string>
     <string name="le_string_virus_title">"אזהרה %1$s !"</string>
@@ -780,7 +779,6 @@
     <string name="le_datetime_buddhism">"BE"</string>
     <string name="le_dialpad_select_sim_card">"בחר כרטיס SIM לשימוש"</string>
     <string name="le_dialpad_select_sim_card_cancel">"בטל"</string>
-    <string name="le_display_sim_name">"SIM 0 %1$s"</string>
     <string name="le_force_close">"אשר"</string>
     <string name="le_map_name">"מפה"</string>
     <string name="le_numeric_date_format_ymd">"yyyy-M-d EEE"</string>
@@ -789,9 +787,6 @@
     <string name="le_permission_dialog_btn_agree">"לך להגדרות"</string>
     <string name="le_permission_dialog_btn_exit">"יציאה"</string>
     <string name="le_permission_request">"הרשאות יישום"</string>
-    <string name="le_ptr_from_bottom_pull_label">"@string/le_ptr_pull_label"</string>
-    <string name="le_ptr_from_bottom_refreshing_label">"@string/le_ptr_refreshing_label"</string>
-    <string name="le_ptr_from_bottom_release_label">"@ string / le_ptr_release_label"</string>
     <string name="le_ptr_pull_label">"משוך כדי לרענן ..."</string>
     <string name="le_ptr_refreshing_label">"טוען..."</string>
     <string name="le_ptr_release_label">"שחרר כדי לרענן…"</string>

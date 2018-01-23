@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="54.0dip" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:leui="http://schemas.android.com/apk/res-auto">
+    <TextView android:textColor="@color/night_black" android:ellipsize="end" android:gravity="center_vertical" android:paddingRight="6.0dip" android:layout_width="wrap_content" android:text="@string/string_app_list" android:maxLines="1" android:layout_weight="1.0" style="@style/flowHeadTextStyle" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/llGprsView" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <TextView android:textSize="12.0dip" android:gravity="center" android:paddingLeft="6.0dip" android:paddingRight="6.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/string_gprs_data" style="@style/flowHeadTextStyle" />
+        <com.letv.shared.widget.LeCheckBox android:gravity="center" android:id="@id/checkBoxGprsView" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" leui:leBoxOnColor="@color/storage_card_bg" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/llWifiView" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginRight="10.0dip">
+        <TextView android:textSize="12.0dip" android:gravity="center" android:paddingLeft="6.0dip" android:paddingRight="6.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/string_wifi_data" style="@style/flowHeadTextStyle" />
+        <com.letv.shared.widget.LeCheckBox android:gravity="center" android:id="@id/checkBoxWifiView" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" leui:leBoxOnColor="@color/storage_card_bg" />
+    </LinearLayout>
+</LinearLayout>
