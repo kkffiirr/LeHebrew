@@ -652,9 +652,6 @@
     <string name="le_pai_voice_share">"שיתוף קול"</string>
     <string name="le_permission_des_content">"האפליקציה %1$s מבקשת הרשאה %2$s לאפשר לפונקציות המתאימות לבצע כרגיל."</string>
     <string name="le_permission_request">"הרשאות יישום"</string>
-    <string name="le_ptr_from_bottom_pull_label">"@string/le_ptr_pull_label"</string>
-    <string name="le_ptr_from_bottom_refreshing_label">"@string/le_ptr_refreshing_label"</string>
-    <string name="le_ptr_from_bottom_release_label">"@ string / le_ptr_release_label"</string>
     <string name="le_ptr_pull_label">"משוך כדי לרענן ..."</string>
     <string name="le_ptr_refreshing_label">"טוען..."</string>
     <string name="le_ptr_release_label">"שחרר כדי לרענן…"</string>
@@ -666,8 +663,6 @@
     <string name="le_status_chushi">"初十"</string>
     <string name="le_status_day">"日"</string>
     <string name="le_status_ershi">"二十"</string>
-    <string name="le_status_format1">"yyyy年MM月dd日"</string>
-    <string name="le_status_format2">"1900年1月31日"</string>
     <string name="le_status_leap">"闰"</string>
     <string name="le_status_month">"月"</string>
     <string name="le_status_sanshi">"三十"</string>
@@ -774,7 +769,6 @@
     <string name="desk_clock_help_url">""</string>
     <string name="le_dialpad_select_sim_card_sim1">"סים 1"</string>
     <string name="le_dialpad_select_sim_card_sim2">"סים 2"</string>
-    <string name="le_emotion_emoji_one_license">"Emoji סיפק חינם על ידי &lt;a href=http://emojione.com&gt; EmojiOne &lt;/a&gt;"</string>
     <string name="le_keyguard_dual_widget_city_id">"C"</string>
         <string name="lepinned">"הוצמד"</string>
         <string name="privacy_guard_dialog_title">"שומר הפרטיות"</string>
