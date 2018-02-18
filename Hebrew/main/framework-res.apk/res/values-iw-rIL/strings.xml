@@ -1553,4 +1553,9 @@
     <string name="config_defaultAccessoryManufacturer">"רשתות"</string>
     <string name="config_defaultAccessoryModel">"אקולינק"</string>
     <string name="headset_plugin_unsupported">"האוזניות אינן תואמות את הטלפון. נסה עוד אחד"</string>
+    <string name="kilobyteShort">ק\"ב</string>
+    <string name="megabyteShort">מ\"ב</string>
+    <string name="gigabyteShort">ג\"ב</string>
+    <string name="terabyteShort">ט\"ב</string>
+    <string name="petabyteShort">פ\"ב</string>
 </resources>
