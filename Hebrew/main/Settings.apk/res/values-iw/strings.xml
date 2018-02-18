@@ -223,7 +223,7 @@
     <string name="leui_notification_settings_current">"תצוגה נוכחית"</string>
     <string name="leui_notification_settings_none">"אין התראות של אפליקציות לעיבוד"</string>
     <string name="leui_gps_ops">"גישה למיקום"</string>
-    <string name="leui_fast_charge">"תשלום מהיר"</string>
+    <string name="leui_fast_charge">"טעינה מהירה"</string>
     <string name="leui_fast_charge_title">"אפשר חיוב מהיר?"</string>
     <string name="leui_fast_charge_desc">"טעינה מהירה תגרום לעלייה בטמפרטורה בזמן הטעינה של הטלפון, אנא אשר."</string>
     <string name="leui_fast_charge_fire">"אפשר"</string>
@@ -775,8 +775,8 @@
     <string name="ring_select_song">"רינגטונים"</string>
     <string name="ring_select_system">"צלצולי מערכת"</string>
     <string name="ring_select_national">"פופולרי צלצולים"</string>
-    <string name="ring_select_message">"צליל הצלצול"</string>
-    <string name="ring_select_notification">"צלצול הודעה"</string>
+    <string name="ring_select_message">"צליל הודעות"</string>
+    <string name="ring_select_notification">"צליל התראות"</string>
     <string name="ring_select_mail">"צלצול דוא\"ל"</string>
     <string name="ring_select_message_deliver">"צליל התראה עבור הודעות שנשלחו"</string>
     <string name="ring_select_calendar">"תזכורת צלצול לוח שנה"</string>
@@ -2523,10 +2523,10 @@
     <string name="power_charging_duration">"%1$s - %2$s עד למילוי מלא"</string>
     <string name="power_charging_duration_usb">"%1$s - %2$s עד לטעינה מלאה של USB"</string>
     <string name="power_charging_duration_wireless">"%1$s - %2$s עד להשלמת האלחוט"</string>
-    <string name="power_usage_list_summary">"השתמש מאז תשלום מלא האחרון"</string>
-    <string name="battery_since_unplugged">"שימוש בסוללה מאז ניתוק"</string>
+    <string name="power_usage_list_summary">"שיומש מאז הטעינה המלאה האחרונה"</string>
+    <string name="battery_since_unplugged">"שימוש בסוללה מאז ניתוק מהמטען"</string>
     <string name="battery_since_reset">"השימוש בסוללה מאז האיפוס"</string>
-    <string name="battery_stats_on_battery">"זמן מאז החיוב האחרון: %1$s"</string>
+    <string name="battery_stats_on_battery">"זמן מאז הטעינה האחרונה: %1$s"</string>
     <string name="battery_stats_duration">"%1$s מאז ניתוק"</string>
     <string name="battery_stats_charging_label">"טוען"</string>
     <string name="battery_stats_screen_on_label">"מסך פעיל"</string>
@@ -2547,9 +2547,9 @@
     <string name="power_screen">"מסך"</string>
     <string name="power_flashlight">"פנס"</string>
     <string name="power_camera">"מַצלֵמָה"</string>
-    <string name="power_cell">"מתנת תא"</string>
+    <string name="power_cell">"רשת במצב המתנה"</string>
     <string name="power_phone">"שיחות קוליות"</string>
-    <string name="power_idle">"הטלפון בטל"</string>
+    <string name="power_idle">"טלפון במצב המתנה"</string>
     <string name="power_unaccounted">"שונות"</string>
     <string name="power_overcounted">"נספר יותר מדי"</string>
     <string name="usage_type_cpu">"סה\"כ מעבד"</string>
