@@ -1662,7 +1662,7 @@
     <string name="dtmf_tone_enable_title">"צליל חיוג"</string>
     <string name="sound_effects_enable_title">"צליל נגיעה"</string>
     <string name="lock_sounds_enable_title">"צליל נעילת מסך"</string>
-    <string name="haptic_feedback_enable_title">"מרטיט"</string>
+    <string name="haptic_feedback_enable_title">"רטט בעת מגע"</string>
     <string name="audio_record_proc_title">"ביטול רעש"</string>
     <string name="volume_media_description">"מוסיקה, וידאו, משחקים, &amp; מדיה אחרים"</string>
     <string name="volume_ring_description">"רינגטונים והודעות"</string>
@@ -2109,7 +2109,7 @@
     <string name="lockpattern_settings_enable_title">"דרוש דפוס"</string>
     <string name="lockpattern_settings_enable_summary">"חייב לצייר תבנית כדי לפתוח את המסך"</string>
     <string name="lockpattern_settings_enable_visible_pattern_title">"הצג את רצועת הדפוס"</string>
-    <string name="lockpattern_settings_enable_tactile_feedback_title">"מרטיט"</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">"רטט בעת מגע"</string>
     <string name="lockpattern_settings_enable_power_button_instantly_locks">"לחצן ההפעלה נועל באופן מיידי"</string>
     <string name="lockpattern_settings_power_button_instantly_locks_summary">"למעט כאשר נעולים על ידי %1$s"</string>
     <string name="lockpattern_settings_choose_lock_pattern">"הגדר תבנית ביטול נעילה"</string>
@@ -2523,7 +2523,7 @@
     <string name="power_charging_duration">"%1$s - %2$s עד למילוי מלא"</string>
     <string name="power_charging_duration_usb">"%1$s - %2$s עד לטעינה מלאה של USB"</string>
     <string name="power_charging_duration_wireless">"%1$s - %2$s עד להשלמת האלחוט"</string>
-    <string name="power_usage_list_summary">"שיומש מאז הטעינה המלאה האחרונה"</string>
+    <string name="power_usage_list_summary">"שימוש מאז הטעינה המלאה האחרונה"</string>
     <string name="battery_since_unplugged">"שימוש בסוללה מאז ניתוק מהמטען"</string>
     <string name="battery_since_reset">"השימוש בסוללה מאז האיפוס"</string>
     <string name="battery_stats_on_battery">"זמן מאז הטעינה האחרונה: %1$s"</string>
@@ -3353,7 +3353,7 @@
     <string name="zen_mode_summary_combination">"%1$s : %2$s"</string>
     <string name="ringtone_title">"צלצול טלפון"</string>
     <string name="notification_ringtone_title">"צלצול של הודעות ברירת מחדל"</string>
-    <string name="vibrate_when_ringing_title">"רטט על הטבעת"</string>
+    <string name="vibrate_when_ringing_title">"רטט בעת צלצול"</string>
     <string name="notification_section_header">"הוֹדָעָה"</string>
     <string name="advanced_section_header">"מִתקַדֵם"</string>
     <string name="notification_pulse_title">"נורית LED"</string>
@@ -3370,7 +3370,7 @@
     <string name="charging_sounds_title">"צלילי טעינה"</string>
     <string name="docking_sounds_title">"צלילי עגינה"</string>
     <string name="touch_sounds_title">"צלילי מגע"</string>
-    <string name="vibrate_on_touch_title">"מרטיט"</string>
+    <string name="vibrate_on_touch_title">"רטט בעת מגע"</string>
     <string name="dock_audio_media_title">"רמקול עגינה משחק"</string>
     <string name="dock_audio_media_disabled">"כל השמע"</string>
     <string name="dock_audio_media_enabled">"שמע מדיה בלבד"</string>
