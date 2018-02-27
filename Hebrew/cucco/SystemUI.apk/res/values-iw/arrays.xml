@@ -1,0 +1,108 @@
+<resources>
+    <string-array name="le_lunar_months">
+        <item>"ינואר"</item>
+        <item>"פברואר"</item>
+        <item>"מרץ"</item>
+        <item>"אפריל"</item>
+        <item>"מאי"</item>
+        <item>"יוני"</item>
+        <item>"יולי"</item>
+        <item>"אוגוסט"</item>
+        <item>"ספטמבר"</item>
+        <item>"אוקטובר"</item>
+        <item>"נובמבר"</item>
+        <item>"דצמבר"</item>
+    </string-array>
+    <string-array name="le_months_en">
+        <item>"ינו"</item>
+        <item>"פבר"</item>
+        <item>"מרץ"</item>
+        <item>"אפר"</item>
+        <item>"מאי"</item>
+        <item>"יוני"</item>
+        <item>"יולי"</item>
+        <item>"אוג"</item>
+        <item>"ספט"</item>
+        <item>"אוק"</item>
+        <item>"נוב"</item>
+        <item>"דצמ"</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item/>
+        <item>"סורק ..."</item>
+        <item>"מתחבר..."</item>
+        <item>"מאמת ..."</item>
+        <item>"משיג כתובת IP ..."</item>
+        <item>"מחובר"</item>
+        <item>"מוּשׁהֶה"</item>
+        <item>"מתנתק ..."</item>
+        <item>"מנותק"</item>
+        <item>"לא הצליח"</item>
+        <item>"חָסוּם"</item>
+        <item>"נמנע באופן זמני מחיבור לקוי"</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item/>
+        <item>"סורק ..."</item>
+        <item>"מתחבר ל %s ..."</item>
+        <item>"מאמת עם %1$s ..."</item>
+        <item>"מקבל כתובת IP מ- %1$s ..."</item>
+        <item>"מחובר ל %1$s"</item>
+        <item>"מוּשׁהֶה"</item>
+        <item>"מנתק מ- %1$s ..."</item>
+        <item>"מְנוּתָק"</item>
+        <item>"לא הצליח"</item>
+        <item>"חָסוּם"</item>
+        <item>"נמנע באופן זמני מחיבור לקוי"</item>
+    </string-array>
+    <string-array name="volume_stream_titles">
+        <item>"שיחות קוליות"</item>
+        <item>"מערכת"</item>
+        <item>"התראות"</item>
+        <item>"כְּלֵי תִקְשׁוֹרֶת"</item>
+        <item>"אַזעָקָה"</item>
+        <item/>
+        <item>"שיחות Bluetooth"</item>
+        <item/>
+        <item/>
+        <item/>
+    </string-array>
+    <string-array name="lockscreen_num_pad_klondike">
+        <item>"3"</item>
+        <item/>
+        <item>"דהו"</item>
+        <item>"אבג"</item>
+        <item>"מנ"</item>
+        <item>"יכל"</item>
+        <item>"זחט"</item>
+        <item>"רשת"</item>
+        <item>"צק"</item>
+        <item>"סעפ"</item>
+    </string-array>
+    <string-array name="access_control_num_pad_klondike">
+        <item>"+"</item>
+        <item/>
+        <item>"ד ה ו"</item>
+        <item>"א ב ג"</item>
+        <item>"מ נ"</item>
+        <item>"י כ ל"</item>
+        <item>"ז ח ט"</item>
+        <item>"ר ש ת"</item>
+        <item>"צ ק"</item>
+        <item>"ס ע פ"</item>
+    </string-array>
+    <string-array name="le_cc_setting_app_calendar_month_list">
+        <item>"ינו"</item>
+        <item>"פבר"</item>
+        <item>"מרץ"</item>
+        <item>"אפר"</item>
+        <item>"מאי"</item>
+        <item>"יוני"</item>
+        <item>"יולי"</item>
+        <item>"אוג"</item>
+        <item>"ספט"</item>
+        <item>"אוק"</item>
+        <item>"נוב"</item>
+        <item>"דצמ"</item>
+    </string-array>
+</resources>

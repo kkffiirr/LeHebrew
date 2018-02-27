@@ -502,7 +502,7 @@
     <string name="le_string_widget_clean_noti">"סה\"כ %s"</string>
     <string name="le_string_widget_memoryReminder">"זיכרון זמין"</string>
     <string name="le_string_widget_noSim">"אין כרטיס SIM"</string>
-    <string name="le_string_widget_noSim_top">"נייד לזרום"</string>
+    <string name="le_string_widget_noSim_top">"נתונים ששודרו"</string>
     <string name="le_string_widget_no_perimmit">"ללא הרשאות"</string>
     <string name="le_string_widget_setFlowPackage">"הגדר תוכנית"</string>
     <string name="le_string_widget_storyReminder">"אחסון זמין"</string>
