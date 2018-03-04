@@ -751,5 +751,8 @@
     <string name="leui_volume_alarm">שעון מעורר</string>
     <string name="leui_volume_call">שיחה</string>
     <string name="leui_volume_smart_sound">שמע מוגבר</string>
-
+    <string name="status_bar_recent_memory_info">%1$s מתוך %3$s זמין</string>
+    <string name="status_bar_recent_memory_info_only">%1$s מתוך %3$s זמין</string>
+    <string name="le_recents_memory_unit_mb">" מ\"ב"</string>
+    <string name="le_recents_memory_unit_gb">" ג\"ב"</string>
 </resources>
