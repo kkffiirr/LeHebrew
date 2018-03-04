@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="?android:selectableItemBackground" android:paddingLeft="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:leui="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/iconImageView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/itemview" android:paddingLeft="12.0dip" android:paddingRight="8.0dip" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/rightView" android:layout_toRightOf="@id/iconImageView" android:layout_centerVertical="true">
+        <TextView android:textSize="16.0sp" android:textColor="@color/nightlist_text" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/titleTextView" android:paddingLeft="0.0dip" android:paddingRight="0.0dip" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="20.0dip" android:layout_marginBottom="20.0dip" android:layout_weight="1.0" />
+        <TextView android:textSize="13.0sp" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/descriptionTextView" android:paddingLeft="0.0dip" android:paddingRight="0.0dip" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_marginTop="4.0dip" android:layout_marginBottom="12.0dip" android:maxLines="1" android:layout_weight="1.0" style="@style/flowHeadTextStyle" />
+    </LinearLayout>
+    <RelativeLayout android:gravity="center|right" android:id="@id/rightView" android:paddingRight="16.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentRight="true" android:layout_centerInParent="true">
+        <ImageView android:id="@id/arrowImageView" android:layout_width="10.0dip" android:layout_height="20.0dip" android:src="@drawable/icon_right_arrow" />
+        <com.letv.shared.widget.LeSwitch android:id="@id/switchView" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" leui:leSwitchTrackColor="@color/powersaving_card_bg" />
+    </RelativeLayout>
+    <View android:background="@color/home_item_divider_bg" android:layout_width="fill_parent" android:layout_height="@dimen/home_item_divider_width" android:layout_marginRight="16.0dip" android:layout_alignParentBottom="true" />
+</RelativeLayout>

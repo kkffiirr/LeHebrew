@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="@color/powersaving_card_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:id="@id/big_header_view" android:layout_width="fill_parent" android:layout_height="@dimen/powersaving_top_end_height">
+        <com.letv.android.supermanager.view.DashesProgressView android:id="@id/dashesProgressView" android:background="@color/powersaving_card_bg" android:padding="2.0dip" android:visibility="visible" android:layout_width="197.0dip" android:layout_height="197.0dip" android:layout_centerInParent="true" />
+        <RelativeLayout android:gravity="center" android:id="@id/mRemainingBatteryNum" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true">
+            <TextView android:textSize="70.0dip" android:id="@id/batteryPercentTextView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" android:fontFamily="helve-neue-thin" style="@style/homeScoreTextStyle" />
+            <TextView android:layout_gravity="fill_horizontal" android:id="@id/homeScoreUnitTextView" android:paddingBottom="14.0dip" android:text="@string/string_battery_unit" android:layout_alignBottom="@id/batteryPercentTextView" android:fontFamily="normal" android:layout_toEndOf="@id/batteryPercentTextView" style="@style/homeScoreUnitTextStyle" />
+            <TextView android:textSize="14.0dip" android:ellipsize="end" android:id="@id/mChargeLabelString" android:maxWidth="180.0dip" android:text="@string/string_battery" android:maxLines="2" android:layout_below="@id/batteryPercentTextView" android:layout_centerHorizontal="true" android:fontFamily="normal" style="@style/homeOptimizeTextTextStyle" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <View android:background="@color/center_divider_bg" android:layout_width="fill_parent" android:layout_height="@dimen/home_item_divider_width" android:layout_below="@id/big_header_view" />
+    <ListView android:id="@id/powerSavingListView" android:background="@color/night_white" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@null" android:layout_below="@id/big_header_view" />
+</RelativeLayout>

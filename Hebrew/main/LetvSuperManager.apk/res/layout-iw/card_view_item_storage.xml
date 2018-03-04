@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="96.0dip" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/card_storage_imgv" android:background="@drawable/card_imgv_storage_bg" android:layout_width="46.0dip" android:layout_height="46.0dip" android:layout_marginLeft="@dimen/card_icon_left_padding" android:layout_marginTop="20.0dip" android:layout_marginRight="@dimen/card_icon_right_padding" android:layout_marginBottom="30.0dip" android:scaleType="center" />
+    <TextView android:id="@id/card_storage_txtv_suggest" android:layout_marginTop="8.0dip" android:layout_marginRight="6.0dip" android:text="@string/le_string_suggest_clean" android:drawablePadding="6.0dip" android:layout_toRightOf="@id/card_storage_imgv" style="@style/card_storage_style_txtv" />
+    <TextView android:id="@id/card_storage_txtv_available" android:layout_marginTop="8.0dip" android:text="@string/le_string_widget_storyReminder" android:layout_toRightOf="@id/card_storage_txtv_suggest" style="@style/card_storage_style_txtv" />
+    <TextView android:textSize="44.0dip" android:id="@id/card_storage_txtv_numb" android:layout_marginRight="4.0dip" android:layout_marginBottom="20.0dip" android:layout_toRightOf="@id/card_storage_imgv" android:layout_alignParentBottom="true" style="@style/card_storage_style_txtv" />
+    <TextView android:id="@id/card_storage_txtv_unit" android:layout_marginBottom="36.0dip" android:text="@string/le_string_flow_unit_mb" android:layout_toRightOf="@id/card_storage_txtv_numb" android:layout_alignParentBottom="true" style="@style/card_storage_style_txtv" />
+    <TextView android:id="@id/card_storage_btn_clean" android:layout_marginRight="18.0dip" android:text="@string/le_string_card_storage_btn_clean" style="@style/card_storage_style_btn" />
+</RelativeLayout>

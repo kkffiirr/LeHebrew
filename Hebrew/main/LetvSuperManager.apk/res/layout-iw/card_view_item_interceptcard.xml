@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="120.0dip" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layoutDirection="ltr">
+        <RelativeLayout android:gravity="center_vertical" android:id="@id/massageintercept" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <ImageView android:id="@id/icon_massage" android:background="@drawable/card_intercept" android:layout_width="46.0dip" android:layout_height="46.0dip" android:layout_marginLeft="8.0dip" android:layout_marginTop="22.0dip" android:layout_marginBottom="30.0dip" android:src="@drawable/icon_massage" android:scaleType="center" />
+            <TextView android:textColor="@color/card_item_txtv_small" android:layout_marginLeft="20.0dip" android:layout_marginTop="16.0dip" android:text="@string/le_string_msg" android:layout_toRightOf="@id/icon_massage" style="@style/LeCardTextView" />
+            <TextView android:textSize="40.0dip" android:textColor="@color/safe_card_bg" android:ellipsize="end" android:id="@id/text_msg_num" android:layout_marginLeft="20.0dip" android:layout_marginTop="30.0dip" android:text="@string/default_flow_size" android:maxLines="1" android:layout_toRightOf="@id/icon_massage" style="@style/LeCardTextView" />
+        </RelativeLayout>
+        <RelativeLayout android:gravity="center_vertical" android:id="@id/phoneintercept" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <ImageView android:id="@id/icon_phone" android:background="@drawable/card_intercept" android:layout_width="46.0dip" android:layout_height="46.0dip" android:layout_marginTop="22.0dip" android:layout_marginBottom="30.0dip" android:src="@drawable/icon_phone" android:scaleType="center" />
+            <TextView android:textColor="@color/card_item_txtv_small" android:layout_marginLeft="20.0dip" android:layout_marginTop="16.0dip" android:text="@string/le_string_phone" android:layout_toRightOf="@id/icon_phone" style="@style/LeCardTextView" />
+            <TextView android:textSize="40.0dip" android:textColor="@color/safe_card_bg" android:ellipsize="end" android:id="@id/text_phone_num" android:layout_marginLeft="20.0dip" android:layout_marginTop="30.0dip" android:text="@string/default_flow_size" android:maxLines="1" android:layout_toRightOf="@id/icon_phone" style="@style/LeCardTextView" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

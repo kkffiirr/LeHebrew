@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="132.0dip" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:leui="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="88.0dip">
+        <RelativeLayout android:gravity="center_vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <ImageView android:id="@id/icon_battery" android:background="@drawable/card_powersaving_bg" android:layout_width="46.0dip" android:layout_height="46.0dip" android:layout_marginTop="21.0dip" android:layout_marginBottom="21.0dip" android:src="@drawable/icon_card_battery_frame" android:scaleType="center" android:layout_marginStart="8.0dip" />
+            <com.letv.android.supermanager.lecard.view.CardBatteryProgressView android:id="@id/icon_battery_progress" android:layout_width="46.0dip" android:layout_height="46.0dip" android:layout_marginTop="21.0dip" android:layout_marginBottom="21.0dip" android:layout_marginStart="8.0dip" leui:progress_color="@android:color/white" leui:background_length="16.0dip" leui:cap_type="square" />
+            <LinearLayout android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_centerVertical="true" android:layout_toEndOf="@id/icon_battery">
+                <TextView android:textSize="40.0dip" android:textColor="@color/safe_card_bg" android:ellipsize="end" android:id="@id/text_battery" android:layout_width="wrap_content" android:maxWidth="90.0dip" android:text="@string/default_score" android:maxLines="1" android:layout_weight="1.0" android:layout_marginStart="16.0dip" style="@style/LeCardTextView" />
+                <TextView android:textColor="@color/card_item_txtv_small" android:layout_width="wrap_content" android:layout_marginTop="8.0dip" android:minWidth="16.0dip" android:text="@string/string_battery_unit" style="@style/LeCardTextView" />
+            </LinearLayout>
+        </RelativeLayout>
+        <RelativeLayout android:gravity="center_vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <ImageView android:id="@id/icon_thermometer" android:background="@drawable/card_powersaving_temper_bg" android:layout_width="46.0dip" android:layout_height="46.0dip" android:layout_marginTop="21.0dip" android:layout_marginBottom="21.0dip" android:src="@drawable/icon_card_temper_frame" android:scaleType="center" />
+            <ImageView android:layout_width="12.0dip" android:layout_height="12.0dip" android:layout_marginTop="48.0dip" android:src="@drawable/icon_card_temper_white_dot" android:layout_marginStart="17.0dip" />
+            <com.letv.android.supermanager.lecard.view.CardBatteryProgressView android:id="@id/icon_thermometer_progress" android:layout_width="46.0dip" android:layout_height="46.0dip" android:layout_marginTop="21.0dip" android:layout_marginBottom="21.0dip" leui:progress_color="@android:color/white" leui:progress_width="4.0dip" leui:power_progress="60.0" leui:background_length="19.0dip" leui:cap_type="round" />
+            <LinearLayout android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_centerVertical="true" android:layout_toEndOf="@id/icon_thermometer">
+                <TextView android:textSize="40.0dip" android:textColor="@color/safe_card_bg" android:ellipsize="end" android:id="@id/text_batterytemperature" android:layout_width="wrap_content" android:text="@string/battery_default_temperature" android:maxLines="1" android:layout_weight="1.0" android:layout_marginStart="16.0dip" style="@style/LeCardTextView" />
+                <TextView android:textColor="@color/card_item_txtv_small" android:layout_width="wrap_content" android:layout_marginTop="8.0dip" android:minWidth="16.0dip" android:text="@string/le_string_temperature_unit" style="@style/LeCardTextView" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+    <View android:background="@color/card_line_color" android:layout_width="fill_parent" android:layout_height="@dimen/home_item_divider_width" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="14.0dip" android:textColor="@color/card_item_txtv_dark" android:ellipsize="end" android:gravity="center" android:id="@id/batteryStatusTextView" android:visibility="invisible" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" android:maxLines="1" android:layout_weight="8.0" />
+        <RelativeLayout android:gravity="end|center" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="7.0">
+            <com.letv.shared.widget.LeSwitch android:gravity="center" android:id="@id/saveSwitchView" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentEnd="true" leui:leSwitchTrackColor="@color/powersaving_card_bg" />
+            <TextView android:textSize="14.0dip" android:textColor="@color/card_item_txtv_large" android:ellipsize="end" android:gravity="center" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/le_string_battery_savermode" android:maxLines="1" android:layout_marginEnd="5.0dip" android:layout_toStartOf="@id/saveSwitchView" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>
