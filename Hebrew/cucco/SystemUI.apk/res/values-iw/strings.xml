@@ -669,8 +669,8 @@
     <string name="accesscontrol_too_many_failed_password_file_message">"האפליקציה נעולה. נסה שוב בעוד %d שניות"</string>
     <string name="access_control_file_locked">"נָעוּל"</string>
     <string name="kg_login_instructions_fingerprint">"אפס את סיסמת נעילת המסך על ידי כניסה אל %1$s . לאחר האיפוס, תכונת טביעת האצבע גם תושבת"</string>
-    <string name="finger_print_le_shot_not_recognized">"השקת מצלמה נכשלה"</string>
-    <string name="le_music_default_display">"מוּסִיקָה"</string>
+    <string name="finger_print_le_shot_not_recognized">"הפעלת מצלמה נכשלה"</string>
+    <string name="le_music_default_display">"מוזיקה"</string>
     <string name="le_video_menu_more">"עוד"</string>
     <string name="le_video_menu_delete">"מחק"</string>
     <string name="le_video_title">"נמלטים עונה 1 לחץ כאן כדי לשחק"</string>
@@ -751,5 +751,8 @@
     <string name="leui_volume_alarm">שעון מעורר</string>
     <string name="leui_volume_call">שיחה</string>
     <string name="leui_volume_smart_sound">שמע מוגבר</string>
-
+    <string name="status_bar_recent_memory_info">%1$s מתוך %3$s זמין</string>
+    <string name="status_bar_recent_memory_info_only">%1$s מתוך %3$s זמין</string>
+    <string name="le_recents_memory_unit_mb">" מ\"ב"</string>
+    <string name="le_recents_memory_unit_gb">" ג\"ב"</string>
 </resources>
