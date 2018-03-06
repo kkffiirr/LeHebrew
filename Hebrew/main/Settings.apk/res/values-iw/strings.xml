@@ -294,8 +294,8 @@
     <string name="leui_broswer_settings">"דפדפן"</string>
     <string name="leui_camera_settings">"מַצלֵמָה"</string>
     <string name="leui_gallery_settings">"גלריה"</string>
-    <string name="leui_music_settings">"מוּסִיקָה"</string>
-    <string name="leui_email_settings">"אֶלֶקטרוֹנִי"</string>
+    <string name="leui_music_settings">"מוזיקה"</string>
+    <string name="leui_email_settings">"דואר אלקטרוני"</string>
     <string name="leui_installer">"מתקין אפליקציה"</string>
     <string name="internal_memory_dot">","</string>
     <string name="leui_filter_app_cache">"שמור במטמון"</string>
@@ -814,8 +814,8 @@
     <string name="dolby_switch_off">"כבוי"</string>
     <string name="dolby_profiles_selection">"אפקטים קוליים"</string>
     <string name="dolby_profile_movie">"סרט"</string>
-    <string name="dolby_profile_music">"מוּסִיקָה"</string>
-    <string name="dolby_profile_game">"מִשְׂחָק"</string>
+    <string name="dolby_profile_music">"מוזיקה"</string>
+    <string name="dolby_profile_game">"משחק"</string>
     <string name="dolby_profile_voice">"קוֹל"</string>
     <string name="dolby_tips_message">"עצה: אפקט הצליל שנבחר יופעל בעת הפעלת מוסיקה."</string>
     <string name="no_sim_card_insert">"לא הוכנס כרטיס"</string>
@@ -4105,5 +4105,6 @@
     <string name="bluetooth_notification_title">"הוֹדָעָה"</string>
     <string name="leui_nfc_payment_settings">"הגדרות"</string>
     <string name="leui_nfc_payment_no_apps">"לא מותקנים אפליקציות תשלום "</string>
-    <string name="paypal_WOR">"WoRFReD Donation"</string>
+    <string name="home_app_uninstall_button">"הסר יישום זה"</string>
+
 </resources>
